@@ -126,10 +126,10 @@ Industry examples involving SDLs.
 Ideas for SDLs.
 
 - [Reproducible Sorbent Materials Foundry for Carbon Capture at Scale](https://doi.org/10.1016/j.xcrp.2022.101063). McDannald, A.; Joress, H.; DeCost, B.; Baumann, A. E.; Kusne, A. G.; Choudhary, K.; Yildirim, T.; Siderius, D. W.; Wong-Ng, W.; Allen, A. J.; Stafford, C. M.; Ortiz-Montalvo, D. L. CR-PHYS-SC 2022, 3 (10).
-- [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
-- [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613.
 - [An Object-Oriented Framework to Enable Workflow Evolution across Materials Acceleration Platforms](https://doi.org/10.1016/j.matt.2022.08.017). Leong, C. J.; Low, K. Y. A.; Recatala-Gomez, J.; Quijano Velasco, P.; Vissol-Gaudin, E.; Tan, J. D.; Ramalingam, B.; I Made, R.; Pethe, S. D.; Sebastian, S.; Lim, Y.-F.; Khoo, Z. H. J.; Bai, Y.; Cheng, J. J. W.; Hippalgaonkar, K. *Matter* 2022, 5 (10), 3124–3134.
 
+<!--- - [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
+- [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Experimental Orchestration Software
 

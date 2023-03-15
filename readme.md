@@ -30,6 +30,7 @@ Review papers for self-driving laboratories, sorted by publication date.
 - [Linking Scientific Instruments and Computation: Patterns, Technologies, and Experiences](https://doi.org/10.1016/j.patter.2022.100606). Vescovi, R.; Chard, R.; Saint, N. D.; Blaiszik, B.; Pruyne, J.; Bicer, T.; Lavens, A.; Liu, Z.; Papka, M. E.; Narayanan, S.; Schwarz, N.; Chard, K.; Foster, I. T. *Patterns* 2022, 3 (10), 100606.
 - [Autonomous (AI-Driven) Materials Science](https://doi.org/10.1063/5.0118872). Green, M. L.; Maruyama, B.; Schrier, J. Applied Physics Reviews 2022, 9 (3), 030401.
 - [Autonomous Chemical Experiments: Challenges and Perspectives on Establishing a Self-Driving Lab](https://doi.org/10.1021/acs.accounts.2c00220). Seifrid, M.; Pollice, R.; Aguilar-Granda, A.; Morgan Chan, Z.; Hotta, K.; Ser, C. T.; Vestfrid, J.; Wu, T. C.; Aspuru-Guzik, A. *Acc. Chem. Res.* 2022, acs.accounts.2c00220.
+- [Cloud Labs: Where Robots Do the Research](https://doi.org/10.1038/d41586-022-01618-x). Arnold, C. *Nature* 2022, 606 (7914), 612–613.
 - [Reaching Critical MASS: Crowdsourcing Designs for the next Generation of Materials Acceleration Platforms](https://doi.org/10.1016/j.matt.2022.05.035). Seifrid, M.; Hattrick-Simpers, J.; Aspuru-Guzik, A.; Kalil, T.; Cranford, S. *Matter* 2022, 5 (7), 1972–1976.
 - [Defining Levels of Automated Chemical Design](https://doi.org/10.1021/acs.jmedchem.2c00334). Goldman, B.; Kearnes, S.; Kramer, T.; Riley, P.; Walters, W. P. *J. Med. Chem.* 2022, 65 (10), 7073–7087.
 - [Toward Autonomous Materials Research: Recent Progress and Future Challenges](https://doi.org/10.1063/5.0076324). Montoya, J. H.; Aykol, M.; Anapolsky, A.; Gopal, C. B.; Herring, P. K.; Hummelshøj, J. S.; Hung, L.; Kwon, H.-K.; Schweigert, D.; Sun, S.; Suram, S. K.; Torrisi, S. B.; Trewartha, A.; Storey, B. D. *Applied Physics Reviews* 2022, 9 (1), 011405.
@@ -59,36 +60,96 @@ Examples of SDLs for [academic research](#academic-research), [education](#educa
 
 Examples of SDLs which are used primarily in academic research settings.
 
-- Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials. Digital Discovery 2022, 10.1039.D2DD00029F. https://doi.org/10.1039/D2DD00029F.
-- Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams. Sci. Adv. 2021, 7 (51), eabg4930. https://doi.org/10.1126/sciadv.abg4930.
-- Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy. ACS Nano 2021, 15 (8), 12604–12627. https://doi.org/10.1021/acsnano.1c02104.
-- Dave, A.; Mitchell, J.; Kandasamy, K.; Wang, H.; Burke, S.; Paria, B.; Póczos, B.; Whitacre, J.; Viswanathan, V. Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning. Cell Reports Physical Science 2020, 1 (12), 100264. https://doi.org/10.1016/j.xcrp.2020.100264.
-- MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials. Sci. Adv. 2020, 6 (20), eaaz8867. https://doi.org/10.1126/sciadv.aaz8867.
-- Nikolaev, P.; Hooper, D.; Webber, F.; Rao, R.; Decker, K.; Krein, M.; Poleski, J.; Barto, R.; Maruyama, B. Autonomy in Materials Research: A Case Study in Carbon Nanotube Growth. npj Comput Mater 2016, 2 (1), 16031. https://doi.org/10.1038/npjcompumats.2016.31.
+#### 2022
+- [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
+
+#### 2021
+- [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
+- [Accelerate Synthesis of Metal–Organic Frameworks by a Robotic Platform and Bayesian Optimization](https://doi.org/10.1021/acsami.1c16506). Xie, Y.; Zhang, C.; Deng, H.; Zheng, B.; Su, J.-W.; Shutt, K.; Lin, J. *ACS Appl. Mater. Interfaces* 2021, 13 (45), 53485–53491.
+- [Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy](https://doi.org/10.1021/acsnano.1c02104). Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. *ACS Nano 2021*, 15 (8), 12604–12627.
+- [Toward Autonomous Additive Manufacturing: Bayesian Optimization on a 3D Printer](https://doi.org/10.1557/s43577-021-00051-1). Deneault, J. R.; Chang, J.; Myung, J.; Hooper, D.; Armstrong, A.; Pitt, M.; Maruyama, B. *MRS Bulletin* 2021, 46 (7), 566–575.
+
+#### 2020
+- [Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning](https://doi.org/10.1016/j.xcrp.2020.100264). Dave, A.; Mitchell, J.; Kandasamy, K.; Wang, H.; Burke, S.; Paria, B.; Póczos, B.; Whitacre, J.; Viswanathan, V. *Cell Reports Physical Science* 2020, 1 (12), 100264.
+- [Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials](https://doi.org/10.1126/sciadv.aaz8867). MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. *Sci. Adv.* 2020, 6 (20), eaaz8867.
+- [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
+- [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
+
+#### 2018
+- [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.
+
+#### 2016
+- [Autonomy in Materials Research: A Case Study in Carbon Nanotube Growth](https://doi.org/10.1038/npjcompumats.2016.31). Nikolaev, P.; Hooper, D.; Webber, F.; Rao, R.; Decker, K.; Krein, M.; Poleski, J.; Barto, R.; Maruyama, B. *npj Comput Mater* 2016, 2 (1), 16031.
+
+#### 2014
+- [Evolution of Oil Droplets in a Chemorobotic Platform](https://doi.org/10.1038/ncomms6571). Gutierrez, J. M. P.; Hinkley, T.; Taylor, J. W.; Yanev, K.; Cronin, L. *Nat Commun* 2014, 5 (1), 5571.
 
 
 ### Education
 
 Examples of SDLs which are used primarily in educational settings.
 
+#### 2023
+- [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
+
+#### 2022
+- [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178. [[build instructions](https://doi.org/10.26434/chemrxiv-2023-xgx5h)]
+- [The LEGOLAS Kit: A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation](https://doi.org/10.1557/s43577-022-00430-2). Saar, L.; Liang, H.; Wang, A.; McDannald, A.; Rodriguez, E.; Takeuchi, I.; Kusne, A. G. *MRS Bulletin* 2022, 47 (9), 881–885.
+
+#### 2021
+- [Augmented Titration Setup for Future Teaching Laboratories](https://doi.org/10.1021/acs.jchemed.0c01394). Yang, F.; Lai, V.; Legard, K.; Kozdras, S.; Prieto, P. L.; Grunert, S.; Hein, J. E. J. *Chem. Educ.* 2021, 98 (3), 876–881.
+
+#### 2020
+- [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
+- [Autonomous Titration for Chemistry Classrooms: Preparing Students for Digitized Chemistry Laboratories](https://doi.org/10.26434/chemrxiv.12097908.v1). Häse, F.; Tamayo-Mendoza, T.; Boixo, C.; Romero, J.; Roch, L.; Aspuru-Guzik, A. *ChemRxiv* 2020.
+
+#### 2019
+- [Rethinking a Timeless Titration Experimental Setup through Automation and Open-Source Robotic Technology: Making Titration Accessible for Students of All Abilities](https://doi.org/10.1021/acs.jchemed.9b00025). Soong, R.; Agmata, K.; Doyle, T.; Jenne, A.; Adamo, A.; Simpson, A. J. J. *Chem. Educ.* 2019, 96 (7), 1497–1501.
+
+
 ### Industry
 
 Examples of SDLs used in industry.
 
-- Arnold, C. Cloud Labs: Where Robots Do the Research. Nature 2022, 606 (7914), 612–613. https://doi.org/10.1038/d41586-022-01618-x.
-
-#### Cloud-based labs
+- [IBM RoboRXN](https://research.ibm.com/science/ibm-roborxn/)
+- [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
+- [Strateos](https://strateos.com/)
+- [Culture Biosciences](https://www.culturebiosciences.com/)
+- [Arctoris](https://dev.arctoris.com/)
+- [Kebotix](https://www.kebotix.com)
 
 ### Prospective
-Ideas for SDLs that have been proposed but are not complete.
+Ideas for SDLs that have been proposed.
 
+- [Reproducible Sorbent Materials Foundry for Carbon Capture at Scale](https://doi.org/10.1016/j.xcrp.2022.101063). McDannald, A.; Joress, H.; DeCost, B.; Baumann, A. E.; Kusne, A. G.; Choudhary, K.; Yildirim, T.; Siderius, D. W.; Wong-Ng, W.; Allen, A. J.; Stafford, C. M.; Ortiz-Montalvo, D. L. CR-PHYS-SC 2022, 3 (10).
+- [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
+- [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613.
 - [An Object-Oriented Framework to Enable Workflow Evolution across Materials Acceleration Platforms](https://doi.org/10.1016/j.matt.2022.08.017). Leong, C. J.; Low, K. Y. A.; Recatala-Gomez, J.; Quijano Velasco, P.; Vissol-Gaudin, E.; Tan, J. D.; Ramalingam, B.; I Made, R.; Pethe, S. D.; Sebastian, S.; Lim, Y.-F.; Khoo, Z. H. J.; Bai, Y.; Cheng, J. J. W.; Hippalgaonkar, K. *Matter* 2022, 5 (10), 3124–3134.
+
 
 ## Experimental Orchestration Software
 
+Experimental orchestration software for autonomously controlling software-hardware communication. See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists/lab-automation).
+
+- Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
+- Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
+- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](10.1002/admi.202101987)]
+- Chemios [[code](https://github.com/Chemios/chemios)]
+- ARES OS [[code](https://github.com/AFRL-ARES/ARES_OS)] [[paper](https://dx.doi.org/10.1557/s43577-021-00051-1)]
+- PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
+- XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
+- self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
+
 ## People
+WIP
+
+- Alan Aspuru-Guzik
+- Jason Hein
+- Lee Cronin
+- Connor Coley
 
 ## Media
+- [Self-driving Laboratories do Research on Autopilot](https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/). Hackaday 2022.
 - [Lowe, D. The Downside of Chemistry Automation](https://www.science.org/content/blog-post/downside-chemistry-automation). (accessed 2022-08-26).
 
 ## Contribute

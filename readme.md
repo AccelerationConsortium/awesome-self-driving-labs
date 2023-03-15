@@ -109,8 +109,9 @@ Examples of SDLs which are used primarily in educational settings.
 
 ### Industry
 
-Examples of SDLs used in industry.
+Industry examples involving SDLs.
 
+#### Cloud-based Labs
 - [IBM RoboRXN](https://research.ibm.com/science/ibm-roborxn/)
 - [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
 - [Strateos](https://strateos.com/)
@@ -118,8 +119,11 @@ Examples of SDLs used in industry.
 - [Arctoris](https://dev.arctoris.com/)
 - [Kebotix](https://www.kebotix.com)
 
+#### Optimization
+- [Atinary](https://atinary.com/)'s [ChemOS Platform](https://chemos.io/)
+
 ### Prospective
-Ideas for SDLs that have been proposed.
+Ideas for SDLs.
 
 - [Reproducible Sorbent Materials Foundry for Carbon Capture at Scale](https://doi.org/10.1016/j.xcrp.2022.101063). McDannald, A.; Joress, H.; DeCost, B.; Baumann, A. E.; Kusne, A. G.; Choudhary, K.; Yildirim, T.; Siderius, D. W.; Wong-Ng, W.; Allen, A. J.; Stafford, C. M.; Ortiz-Montalvo, D. L. CR-PHYS-SC 2022, 3 (10).
 - [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
@@ -143,7 +147,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 ## People
 WIP
 
-- Alan Aspuru-Guzik
+- Alan Aspuru-Guzik [Homepage] [Twitter] [LinkedIn]
 - Jason Hein
 - Lee Cronin
 - Connor Coley

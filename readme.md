@@ -147,7 +147,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 ## People
 WIP
 
-- Alan Aspuru-Guzik [Homepage] [Twitter] [LinkedIn]
+- Alan Aspuru-Guzik
 - Jason Hein
 - Lee Cronin
 - Connor Coley

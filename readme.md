@@ -10,7 +10,9 @@
   - [Education](#education)
   - [Industry](#industry)
   - [Prospective](#prospective)
-- [Experimental Orchestration Software](#experimental-orchestration-software)
+- Software
+  - [Experimental Orchestration](#experimental-orchestration-software)
+  - [Optimization](#optimization)
 - [People](#people)
 - [Media](#media)
 
@@ -119,7 +121,7 @@ Industry examples involving SDLs.
 - [Arctoris](https://dev.arctoris.com/)
 - [Kebotix](https://www.kebotix.com)
 
-#### Optimization
+#### Software
 - [Atinary](https://atinary.com/)'s [ChemOS Platform](https://chemos.io/)
 
 ### Prospective
@@ -131,7 +133,9 @@ Ideas for SDLs.
 <!--- - [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
-## Experimental Orchestration Software
+## Software
+
+### Experimental Orchestration Software
 
 Experimental orchestration software for autonomously controlling software-hardware communication. See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists/lab-automation).
 
@@ -143,6 +147,24 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
+
+### Optimization
+Optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
+
+- [Adaptive Experimentation Platform (Ax)](https://ax.dev/)
+- [BoTorch](https://botorch.org/)
+- [Dragonfly](https://github.com/dragonfly/dragonfly)
+- [RayTune](https://docs.ray.io/en/latest/tune/index.html) (see [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html))
+- Aspuru-Guzik Group
+  - [Chimera](https://github.com/aspuru-guzik-group/chimera)
+  - [Gemini](https://github.com/aspuru-guzik-group/gemini)
+  - [Golem](https://github.com/aspuru-guzik-group/golem)
+  - [Phoenics](https://github.com/aspuru-guzik-group/phoenics)
+  - [Gryffin](https://github.com/aspuru-guzik-group/gryffin)
+- [BoFire](https://github.com/experimental-design/bofire)
+
+### Other
+- [Olympus Benchmarking Framework](https://github.com/aspuru-guzik-group/olympus)
 
 ## People
 WIP

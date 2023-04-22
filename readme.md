@@ -13,6 +13,7 @@
 - [Software](#software)
   - [Experimental Orchestration](#experimental-orchestration-software)
   - [Optimization](#optimization)
+  - [Other](#other)
 - [People](#people)
 - [Media](#media)
 

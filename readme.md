@@ -161,7 +161,7 @@ Optimization software for iteratively suggesting next experiments (i.e., adaptiv
   - [Gryffin](https://github.com/aspuru-guzik-group/gryffin) enables Bayesian optimization of continuous and categorical variables with support for physicochemical descriptors and batch optimization.
   - [Gemini](https://github.com/aspuru-guzik-group/gemini) is a scalable multi-fidelity Bayesian optimization technique and is supported by Gryffin.
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
-  - [Phoenics](https://github.com/aspuru-guzik-group/phoenics)
+  - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
 
 ### Other

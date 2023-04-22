@@ -10,7 +10,7 @@
   - [Education](#education)
   - [Industry](#industry)
   - [Prospective](#prospective)
-- Software
+- [Software](#software)
   - [Experimental Orchestration](#experimental-orchestration-software)
   - [Optimization](#optimization)
 - [People](#people)
@@ -134,6 +134,7 @@ Ideas for SDLs.
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Software
+Examples of experimental orchestration, optimization, and other open-source software.
 
 ### Experimental Orchestration Software
 
@@ -151,20 +152,20 @@ Experimental orchestration software for autonomously controlling software-hardwa
 ### Optimization
 Optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
-- [Adaptive Experimentation Platform (Ax)](https://ax.dev/)
-- [BoTorch](https://botorch.org/)
-- [Dragonfly](https://github.com/dragonfly/dragonfly)
-- [RayTune](https://docs.ray.io/en/latest/tune/index.html) (see [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html))
+- [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization. 
+- [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
+- [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
+- [RayTune](https://docs.ray.io/en/latest/tune/index.html) offers experiment execution and hyperparameter tuning at any scale with many supported [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html) under a common interface.
 - Aspuru-Guzik Group
-  - [Chimera](https://github.com/aspuru-guzik-group/chimera)
-  - [Gemini](https://github.com/aspuru-guzik-group/gemini)
-  - [Golem](https://github.com/aspuru-guzik-group/golem)
+  - [Chimera](https://github.com/aspuru-guzik-group/chimera) is a hierarchy-based multi-objective optimization scalarizing function.
+  - [Gryffin](https://github.com/aspuru-guzik-group/gryffin) enables Bayesian optimization of continuous and categorical variables with support for physicochemical descriptors and batch optimization.
+  - [Gemini](https://github.com/aspuru-guzik-group/gemini) is a scalable multi-fidelity Bayesian optimization technique and is supported by Gryffin.
+  - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics)
-  - [Gryffin](https://github.com/aspuru-guzik-group/gryffin)
-- [BoFire](https://github.com/experimental-design/bofire)
+- [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
 
 ### Other
-- [Olympus Benchmarking Framework](https://github.com/aspuru-guzik-group/olympus)
+- [Olympus](https://github.com/aspuru-guzik-group/olympus) is a benchmarking framework based primarily on data collected from experimental self-driving lab setups.
 
 ## People
 WIP

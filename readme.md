@@ -121,10 +121,13 @@ Industry examples involving SDLs.
 - [Culture Biosciences](https://www.culturebiosciences.com/)
 - [Arctoris](https://dev.arctoris.com/)
 - [Kebotix](https://www.kebotix.com)
+- [CMU Cloud Lab](https://cloudlab.cmu.edu/)
+- [Argonne National Laboratory](https://www.anl.gov/autonomous-discovery)
 
 #### Software-as-a-Service (SaaS)
 - [Atinary](https://atinary.com/)
 - [Citrine Informatics](https://citrine.io/)
+- [Globus](https://www.globus.org/)
 
 ### Prospective
 Ideas for SDLs.

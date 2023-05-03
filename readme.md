@@ -122,8 +122,9 @@ Industry examples involving SDLs.
 - [Arctoris](https://dev.arctoris.com/)
 - [Kebotix](https://www.kebotix.com)
 
-#### Software
-- [Atinary](https://atinary.com/)'s [ChemOS Platform](https://chemos.io/)
+#### Software-as-a-Service (SaaS)
+- [Atinary](https://atinary.com/)
+- [Citrine Informatics](https://citrine.io/)
 
 ### Prospective
 Ideas for SDLs.

@@ -151,8 +151,9 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 
 ### Optimization
-Optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
+Open-source and proprietary optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
+#### Open-source
 - [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization. 
 - [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
@@ -165,16 +166,33 @@ Optimization software for iteratively suggesting next experiments (i.e., adaptiv
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
 
+#### Proprietary
+- [ChemOS](https://chemos.io/)
+- [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
+
 ### Other
 - [Olympus](https://github.com/aspuru-guzik-group/olympus) is a benchmarking framework based primarily on data collected from experimental self-driving lab setups.
 
 ## People
 WIP
 
+https://acceleration.utoronto.ca/researcher
+<!----
 - Alan Aspuru-Guzik
-- Jason Hein
-- Lee Cronin
+- Sterling G. Baird
+- Ben Blaiszik
+- Nessa Carson
 - Connor Coley
+- Leroy Cronin
+- Jason Hattrick-Simpers
+- Jason Hein
+- Sergei Kalinin V.
+- Zhe Liu
+- Stanley Lo
+- Benji Maruyama
+- Joshua Schrier
+- Taylor D. Sparks
+---->
 
 ## Media
 - [Self-driving Laboratories do Research on Autopilot](https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/). Hackaday 2022.

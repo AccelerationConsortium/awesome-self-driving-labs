@@ -26,6 +26,7 @@ Review papers for self-driving laboratories, sorted by publication date.
 - [Next-Generation Intelligent Laboratories for Materials Design and Manufacturing](https://doi.org/10.1557/s43577-023-00481-z). Peng, X.; Wang, X.; Brown, K. A.; Abolhasani, M. *MRS Bulletin* 2023.
 - [Toward Autonomous Laboratories: Convergence of Artificial Intelligence and Experimental Automation](https://doi.org/10.1016/j.pmatsci.2022.101043) Xie, Y.; Sattari, K.; Zhang, C.; Lin, J. *Progress in Materials Science* 2023, 132, 101043.
 - [The Rise of Self-Driving Labs in Chemical and Materials Sciences](https://doi.org/10.1038/s44160-022-00231-0). Abolhasani, M.; Kumacheva, E. *Nat. Synth* 2023, 1–10.
+- [My new review paper](https://link.org) ...
 
 ### 2022
 - [Research Acceleration in Self‐Driving Labs: Technological Roadmap toward Accelerated Materials and Molecular Discovery](https://doi.org/10.1002/aisy.202200331). Delgado-Licona, F.; Abolhasani, M. *Advanced Intelligent Systems* 2022, 2200331.

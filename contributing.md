@@ -19,9 +19,13 @@ Thank you for your suggestions!
 
 ## Creating a pull request
 
+See the video below for an easy-to-follow demonstration.
+
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository
 2. [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for your addition
 3. [Make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) in which you add short description of why the project/resource/tool is awesome.
+
+https://github.com/sgbaird/awesome-self-driving-labs/assets/45469701/68e0b7b3-bd58-4c71-a1fe-ab108b168722
 
 ## Updating your PR
 

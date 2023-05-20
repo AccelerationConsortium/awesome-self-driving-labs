@@ -1,4 +1,4 @@
-# Awesome Self Driving Labs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Self Driving Labs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/614559484.svg)](https://zenodo.org/badge/latestdoi/614559484)
 
 > A curated list of self-driving laboratories (SDLs) that combine hardware automation and artificial intelligence to accelerate scientific discovery.
 

@@ -63,6 +63,9 @@ Examples of SDLs for [academic research](#academic-research), [education](#educa
 
 Examples of SDLs which are used primarily in academic research settings.
 
+#### 2023
+- [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.
+
 #### 2022
 - [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
 

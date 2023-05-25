@@ -173,9 +173,6 @@ Open-source and proprietary optimization software for iteratively suggesting nex
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
-- Functional Data Analysis
-  - [Amplitude-Phase-Distance](https://github.com/kiranvad/Amplitude-Phase-Distance) is a Riemannian differential geometry toolbox to compute a `shape' distance between electromagnetic spectra, scattering, or diffraction profiles.
-  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)
@@ -183,6 +180,9 @@ Open-source and proprietary optimization software for iteratively suggesting nex
 
 ### Other
 - [Olympus](https://github.com/aspuru-guzik-group/olympus) is a benchmarking framework based primarily on data collected from experimental self-driving lab setups.
+- Functional Data Analysis
+  - [Amplitude-Phase-Distance](https://github.com/kiranvad/Amplitude-Phase-Distance) is a Riemannian differential geometry toolbox to compute a `shape' distance between electromagnetic spectra, scattering, or diffraction profiles.
+  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
 
 ## People
 WIP

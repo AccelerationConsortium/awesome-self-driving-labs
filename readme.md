@@ -68,6 +68,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2022
 - [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
+- [Autonomous retrosynthesis of gold nanoparticles via spectral shape matching](https://doi.org/10.1039/D2DD00025C). Vaddi, Kiran; Huat Thart Chiang; and Lilo D. Pozzo. *Digital Discovery* 2022, 10.1039/D2DD00025C.
 
 #### 2021
 - [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
@@ -172,6 +173,9 @@ Open-source and proprietary optimization software for iteratively suggesting nex
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
+- Functional Data Analysis
+  - [Amplitude-Phase-Distance](https://github.com/kiranvad/Amplitude-Phase-Distance) is a Riemannian differential geometry toolbox to compute a `shape' distance between electromagnetic spectra, scattering, or diffraction profiles.
+  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

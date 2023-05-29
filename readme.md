@@ -65,6 +65,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2023
 - [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.
+- [NIMS-OS: An automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://doi.org/10.48550/arXiv.2304.13927). Tamura, R.; Tsuda, K.; Matsuda, S. *arXiv* 2023, doi:10.48550/arXiv.2304.13927.
 
 #### 2022
 - [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
@@ -80,6 +81,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - [Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials](https://doi.org/10.1126/sciadv.aaz8867). MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. *Sci. Adv.* 2020, 6 (20), eaaz8867.
 - [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
 - [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
+- [Autonomous materials synthesis by machine learning and robotics](https://doi.org/10.1063/5.0020370). Shimizu, R.; Kobayashi, S.; Watanabe, Y.; Ando, Y.; Hitosugi, T. *APL Mater.* 2020, 8 (11), 111110.
 
 #### 2018
 - [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.

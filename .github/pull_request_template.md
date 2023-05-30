@@ -1,1 +1,3 @@
+<!-- In the space below, enter a short description of the project. If applicable, describe the autonomy level (e.g., fully autonomous vs. one-step of human intervention vs. multiple steps of human intervention) -->
+
 [Project Name] is awesome because ...

@@ -13,7 +13,7 @@
     - [Software-as-a-Service (SaaS)](#software-as-a-service-saas)
   - [Prospective](#prospective)
 - [Software](#software)
-  - [Experimental Orchestration Software](#experimental-orchestration-software)
+  - [Experimental Orchestration](#experimental-orchestration)
   - [Optimization](#optimization)
     - [Open-source](#open-source)
     - [Proprietary](#proprietary)
@@ -152,7 +152,7 @@ Ideas for SDLs.
 ## Software
 Examples of experimental orchestration, optimization, and other software.
 
-### Experimental Orchestration Software
+### Experimental Orchestration
 
 Experimental orchestration software for autonomously controlling software-hardware communication. See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists/lab-automation).
 

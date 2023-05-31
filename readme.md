@@ -11,11 +11,13 @@
   - [Industry](#industry)
   - [Prospective](#prospective)
 - [Software](#software)
-  - [Experimental Orchestration](#experimental-orchestration-software)
+  - [Experimental Orchestration](#experimental-orchestration)
   - [Optimization](#optimization)
   - [Other](#other)
 - [People](#people)
 - [Media](#media)
+- [Contribute](#contribute)
+- [License](#license)
 
 > A `BibTeX` file of all the references below with a `DOI` can be downloaded [here](bibtex/references.bib)
 
@@ -67,6 +69,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2023
 - [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.
+- [NIMS-OS: An automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://doi.org/10.48550/arXiv.2304.13927). Tamura, R.; Tsuda, K.; Matsuda, S. *arXiv* 2023, doi:10.48550/arXiv.2304.13927.
 
 #### 2022
 - [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
@@ -82,6 +85,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - [Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials](https://doi.org/10.1126/sciadv.aaz8867). MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. *Sci. Adv.* 2020, 6 (20), eaaz8867.
 - [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
 - [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
+- [Autonomous materials synthesis by machine learning and robotics](https://doi.org/10.1063/5.0020370). Shimizu, R.; Kobayashi, S.; Watanabe, Y.; Ando, Y.; Hitosugi, T. *APL Mater.* 2020, 8 (11), 111110.
 
 #### 2018
 - [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.
@@ -99,9 +103,10 @@ Examples of SDLs which are used primarily in educational settings.
 
 #### 2023
 - [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
+- [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
 
 #### 2022
-- [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178. [[build instructions](https://doi.org/10.26434/chemrxiv-2023-xgx5h)]
+- [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.
 - [The LEGOLAS Kit: A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation](https://doi.org/10.1557/s43577-022-00430-2). Saar, L.; Liang, H.; Wang, A.; McDannald, A.; Rodriguez, E.; Takeuchi, I.; Kusne, A. G. *MRS Bulletin* 2022, 47 (9), 881–885.
 
 #### 2021
@@ -144,26 +149,27 @@ Ideas for SDLs.
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Software
-Examples of experimental orchestration, optimization, and other software.
+Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), and [other](#other) software.
 
-### Experimental Orchestration Software
+### Experimental Orchestration
 
 Experimental orchestration software for autonomously controlling software-hardware communication. See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists/lab-automation).
 
 - Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
 - Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
-- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](10.1002/admi.202101987)]
+- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](https://dx.doi.org/10.1002/admi.202101987)]
 - Chemios [[code](https://github.com/Chemios/chemios)]
 - ARES OS [[code](https://github.com/AFRL-ARES/ARES_OS)] [[paper](https://dx.doi.org/10.1557/s43577-021-00051-1)]
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
+- NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)] [[paper](https://doi.org/10.48550/arXiv.2304.13927)]
 
 ### Optimization
-Open-source and proprietary optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
+[Open-source](#open-source) and [proprietary](#proprietary) optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
 #### Open-source
-- [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization. 
+- [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization.
 - [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
 - [RayTune](https://docs.ray.io/en/latest/tune/index.html) offers experiment execution and hyperparameter tuning at any scale with many supported [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html) under a common interface.
@@ -174,6 +180,9 @@ Open-source and proprietary optimization software for iteratively suggesting nex
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
+- [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for
+  workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),
+  random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
 - [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimising chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 
 #### Proprietary

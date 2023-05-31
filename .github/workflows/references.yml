@@ -1,3 +1,4 @@
+---
 name: Generate References
 on:
   push:
@@ -9,23 +10,19 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
-
       - name: Python Deps.
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Create BibTeX from readme.md
         run: |
-	  mkdir -p bibtex
-	  cd bibtex
-	  python generate_bibtex.py
-
+          mkdir -p bibtex
+          cd bibtex
+          python generate_bibtex.py
       - name: Push to repo
         uses: EndBug/add-and-commit@v9
         with:

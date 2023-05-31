@@ -23,3 +23,8 @@ jobs:
 	  cd bibtex
 	  python generate_bibtex.py
 
+      - name: Push to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+	  add: 'bibtex/references.bib'
+          default_author: github_actions

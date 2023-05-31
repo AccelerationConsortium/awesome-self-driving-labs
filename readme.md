@@ -105,9 +105,10 @@ Examples of SDLs which are used primarily in educational settings.
 
 #### 2023
 - [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
+- [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
 
 #### 2022
-- [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178. [[build instructions](https://doi.org/10.26434/chemrxiv-2023-xgx5h)]
+- [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.
 - [The LEGOLAS Kit: A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation](https://doi.org/10.1557/s43577-022-00430-2). Saar, L.; Liang, H.; Wang, A.; McDannald, A.; Rodriguez, E.; Takeuchi, I.; Kusne, A. G. *MRS Bulletin* 2022, 47 (9), 881–885.
 
 #### 2021
@@ -150,7 +151,7 @@ Ideas for SDLs.
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Software
-Examples of experimental orchestration, optimization, and other software.
+Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), and [other](#other) software.
 
 ### Experimental Orchestration
 
@@ -158,7 +159,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 
 - Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
 - Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
-- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](10.1002/admi.202101987)]
+- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](https://dx.doi.org/10.1002/admi.202101987)]
 - Chemios [[code](https://github.com/Chemios/chemios)]
 - ARES OS [[code](https://github.com/AFRL-ARES/ARES_OS)] [[paper](https://dx.doi.org/10.1557/s43577-021-00051-1)]
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
@@ -167,7 +168,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for automated materials exploration using robotic experiments and AI techniques, with real-time visualization and the option to add new modules.
 
 ### Optimization
-Open-source and proprietary optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
+[Open-source](#open-source) and [proprietary](#proprietary) optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
 #### Open-source
 - [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization.
@@ -184,6 +185,7 @@ Open-source and proprietary optimization software for iteratively suggesting nex
 - [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for
   workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),
   random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
+- [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimising chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

@@ -4,18 +4,22 @@
 
 ## Contents
 
-- [Review Papers](#review-papers)
-- [SDL Examples](#sdl-examples)
-  - [Academic Research](#academic-research)
-  - [Education](#education)
-  - [Industry](#industry)
-  - [Prospective](#prospective)
-- [Software](#software)
-  - [Experimental Orchestration](#experimental-orchestration-software)
-  - [Optimization](#optimization)
-  - [Other](#other)
-- [People](#people)
-- [Media](#media)
+- [Awesome Self-Driving Labs  ](#awesome-self-driving-labs--)
+  - [Contents](#contents)
+  - [Review Papers](#review-papers)
+      - [Cloud-based Labs](#cloud-based-labs)
+      - [Software-as-a-Service (SaaS)](#software-as-a-service-saas)
+    - [Prospective](#prospective)
+  - [Software](#software)
+    - [Experimental Orchestration Software](#experimental-orchestration-software)
+    - [Optimization](#optimization)
+      - [Open-source](#open-source)
+      - [Proprietary](#proprietary)
+    - [Other](#other)
+  - [People](#people)
+  - [Media](#media)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Review Papers
 
@@ -158,12 +162,13 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
+- [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for automated materials exploration using robotic experiments and AI techniques, with real-time visualization and the option to add new modules.
 
 ### Optimization
 Open-source and proprietary optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
 #### Open-source
-- [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization. 
+- [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization.
 - [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
 - [RayTune](https://docs.ray.io/en/latest/tune/index.html) offers experiment execution and hyperparameter tuning at any scale with many supported [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html) under a common interface.
@@ -174,6 +179,9 @@ Open-source and proprietary optimization software for iteratively suggesting nex
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
+- [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for
+  workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),
+  random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

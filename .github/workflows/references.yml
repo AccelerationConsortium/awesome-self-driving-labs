@@ -1,0 +1,26 @@
+name: Generate References
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8.10'
+
+      - name: Change folder
+        run: cd bibtex
+
+      - name: Create BibTeX from readme.md
+        run: python generate_bibtex.py
+

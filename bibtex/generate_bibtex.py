@@ -24,7 +24,7 @@ def extract_dois(filepath,url=False):
     with open(outfile, 'r') as f:
         md_file_content = f.read()
         # Find all DOIs in the file
-        matches = re.findall(doi_pattern, md_file_content, re.IGNORECASE)
+        matches = [match.group(1) for match in re.finditer(doi_pattern, md_file_content, re.IGNORECASE)]        
         unique_dois = list(set(matches))
 
     return unique_dois

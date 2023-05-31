@@ -18,9 +18,8 @@ jobs:
         with:
           python-version: '3.8'
 
-      - name: Change folder
-        run: cd bibtex
-
       - name: Create BibTeX from readme.md
-        run: python generate_bibtex.py
+        run: |
+	  cd bibtex
+	  python generate_bibtex.py
 

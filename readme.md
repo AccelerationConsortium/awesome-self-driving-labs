@@ -161,7 +161,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
-- [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for automated materials exploration using robotic experiments and AI techniques, with real-time visualization and the option to add new modules.
+- NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)]
 
 ### Optimization
 [Open-source](#open-source) and [proprietary](#proprietary) optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).

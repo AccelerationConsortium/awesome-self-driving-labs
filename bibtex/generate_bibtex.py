@@ -20,7 +20,7 @@ def extract_dois(filepath,url=False):
         outfile = filepath
         
     # Regular expression pattern for DOIs
-    doi_pattern = r'\[.*?\]\((https?://doi\.org/[-._;()/:a-zA-Z0-9]+)\)'
+    doi_pattern = r'\[.*?\]\((https?://(dx\.)?doi\.org/[-._;()/:a-zA-Z0-9]+)\)'
     with open(outfile, 'r') as f:
         md_file_content = f.read()
         # Find all DOIs in the file

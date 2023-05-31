@@ -143,7 +143,7 @@ Ideas for SDLs.
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Software
-Examples of experimental orchestration, optimization, and other software.
+Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), and [other](#other) software.
 
 ### Experimental Orchestration Software
 
@@ -159,7 +159,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 
 ### Optimization
-Open-source and proprietary optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
+[Open-source](#open-source) and [proprietary](#proprietary) optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).
 
 #### Open-source
 - [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization. 

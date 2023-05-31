@@ -151,7 +151,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 
 - Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
 - Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
-- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](10.1002/admi.202101987)]
+- HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](https://dx.doi.org/10.1002/admi.202101987)]
 - Chemios [[code](https://github.com/Chemios/chemios)]
 - ARES OS [[code](https://github.com/AFRL-ARES/ARES_OS)] [[paper](https://dx.doi.org/10.1557/s43577-021-00051-1)]
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]

@@ -174,6 +174,7 @@ Open-source and proprietary optimization software for iteratively suggesting nex
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
+- [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimising chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

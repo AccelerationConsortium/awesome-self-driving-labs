@@ -21,6 +21,7 @@ jobs:
       - name: Create BibTeX from readme.md
         run: |
           mkdir -p bibtex
+	  mkdir -p bibtex
           cd bibtex
           python generate_bibtex.py
       - name: Push to repo

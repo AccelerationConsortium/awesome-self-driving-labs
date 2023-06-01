@@ -73,6 +73,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2022
 - [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
+- [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422. 
 
 #### 2021
 - [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
@@ -144,6 +145,7 @@ Ideas for SDLs.
 
 - [Reproducible Sorbent Materials Foundry for Carbon Capture at Scale](https://doi.org/10.1016/j.xcrp.2022.101063). McDannald, A.; Joress, H.; DeCost, B.; Baumann, A. E.; Kusne, A. G.; Choudhary, K.; Yildirim, T.; Siderius, D. W.; Wong-Ng, W.; Allen, A. J.; Stafford, C. M.; Ortiz-Montalvo, D. L. CR-PHYS-SC 2022, 3 (10).
 - [An Object-Oriented Framework to Enable Workflow Evolution across Materials Acceleration Platforms](https://doi.org/10.1016/j.matt.2022.08.017). Leong, C. J.; Low, K. Y. A.; Recatala-Gomez, J.; Quijano Velasco, P.; Vissol-Gaudin, E.; Tan, J. D.; Ramalingam, B.; I Made, R.; Pethe, S. D.; Sebastian, S.; Lim, Y.-F.; Khoo, Z. H. J.; Bai, Y.; Cheng, J. J. W.; Hippalgaonkar, K. *Matter* 2022, 5 (10), 3124–3134.
+- [Designing Workflows for Materials Characterization](https://arxiv.org/abs/2302.04397). Kalinin, S. V., Ziatdinov, M., Ahmadi, M., Ghosh, A., Roccapriore, K., Liu, Y., & Vasudevan, R. K. (2023). *arXiv:2302.04397*.
 
 <!--- - [Delivering Real-Time Multi-Modal Materials Analysis with Enterprise Beamlines](https://doi.org/10.1016/j.xcrp.2022.101112). Maffettone, P. M.; Campbell, S.; Hanwell, M. D.; Wilkins, S.; Olds, D. CR-PHYS-SC 2022, 3 (11).
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
@@ -184,6 +186,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
   workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),
   random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
 - [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimising chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
+- [GPax](https://github.com/ziatdinovmax/gpax) is a small Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)
@@ -206,6 +209,7 @@ https://acceleration.utoronto.ca/researcher
 - Jason Hattrick-Simpers
 - Jason Hein
 - Sergei Kalinin V.
+- Maxim Ziatdinov
 - Zhe Liu
 - Stanley Lo
 - Benji Maruyama

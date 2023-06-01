@@ -19,6 +19,8 @@
 - [Contribute](#contribute)
 - [License](#license)
 
+> A `BibTeX` file of all the references below with a `DOI` can be downloaded [here](bibtex/references.bib)
+
 ## Review Papers
 
 Review papers for self-driving laboratories, sorted by publication date.

@@ -174,6 +174,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
 - [RayTune](https://docs.ray.io/en/latest/tune/index.html) offers experiment execution and hyperparameter tuning at any scale with many supported [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html) under a common interface.
 - Aspuru-Guzik Group
+  - [Atlas](https://github.com/rileyhickman/atlas) is a Python package that offers Bayesian optimization tailored towards real-world experimental science problems: mixed parameters, multi-objective, noisy, constrained, multi-fidelity, and meta-learning optimization along with search space expansion/contraction. [WIP]
   - [Chimera](https://github.com/aspuru-guzik-group/chimera) is a hierarchy-based multi-objective optimization scalarizing function.
   - [Gryffin](https://github.com/aspuru-guzik-group/gryffin) enables Bayesian optimization of continuous and categorical variables with support for physicochemical descriptors and batch optimization.
   - [Gemini](https://github.com/aspuru-guzik-group/gemini) is a scalable multi-fidelity Bayesian optimization technique and is supported by Gryffin.

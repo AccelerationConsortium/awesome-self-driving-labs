@@ -79,6 +79,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
 - [Accelerate Synthesis of Metal–Organic Frameworks by a Robotic Platform and Bayesian Optimization](https://doi.org/10.1021/acsami.1c16506). Xie, Y.; Zhang, C.; Deng, H.; Zheng, B.; Su, J.-W.; Shutt, K.; Lin, J. *ACS Appl. Mater. Interfaces* 2021, 13 (45), 53485–53491.
 - [Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy](https://doi.org/10.1021/acsnano.1c02104). Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. *ACS Nano 2021*, 15 (8), 12604–12627.
+- [Realization of closed-loop optimization of epitaxial titanium nitride thin-film growth via machine learning](https://doi.org/10.1016/j.mtphys.2020.100296). Ohkubo, I.; Hou, Z.; Lee, J. N.; Aizawa, T.' Lippmaa, M.; Chikyow, T.; Mori, T. *Materials Today Physics* 2021, 16, 100296.
 - [Toward Autonomous Additive Manufacturing: Bayesian Optimization on a 3D Printer](https://doi.org/10.1557/s43577-021-00051-1). Deneault, J. R.; Chang, J.; Myung, J.; Hooper, D.; Armstrong, A.; Pitt, M.; Maruyama, B. *MRS Bulletin* 2021, 46 (7), 566–575.
 
 #### 2020

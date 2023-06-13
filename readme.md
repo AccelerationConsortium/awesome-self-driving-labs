@@ -78,34 +78,34 @@ The following emoji are used to help [represent fully autonomous vs. manual inte
 Examples of SDLs which are used primarily in academic research settings.
 
 #### 2023
-- 🧪🔬🏗️💻 [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.
-- 🧪🔬🏗️💻 [NIMS-OS: An automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://doi.org/10.48550/arXiv.2304.13927). Tamura, R.; Tsuda, K.; Matsuda, S. *arXiv* 2023, doi:10.48550/arXiv.2304.13927.
+- 🧪🔬🏗️💻 | [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.
+- 🧪🔬🏗️💻 | [NIMS-OS: An automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://doi.org/10.48550/arXiv.2304.13927). Tamura, R.; Tsuda, K.; Matsuda, S. *arXiv* 2023, doi:10.48550/arXiv.2304.13927.
 
 #### 2022
-- 🧪🔬🏗️💻 [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
-- 🧪🔬🏗️💻 [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422. 
+- 🧪🔬🏗️💻 | [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
+- 🧪🔬🏗️💻 | [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422. 
 
 #### 2021
-- 🧪🔬🏗️💻 [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
-- 🧪🔬🏗️💻 [Accelerate Synthesis of Metal–Organic Frameworks by a Robotic Platform and Bayesian Optimization](https://doi.org/10.1021/acsami.1c16506). Xie, Y.; Zhang, C.; Deng, H.; Zheng, B.; Su, J.-W.; Shutt, K.; Lin, J. *ACS Appl. Mater. Interfaces* 2021, 13 (45), 53485–53491.
-- 🧪🔬🏗️💻 [Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy](https://doi.org/10.1021/acsnano.1c02104). Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. *ACS Nano 2021*, 15 (8), 12604–12627.
-- 🧪🔬🏗️💻 [Toward Autonomous Additive Manufacturing: Bayesian Optimization on a 3D Printer](https://doi.org/10.1557/s43577-021-00051-1). Deneault, J. R.; Chang, J.; Myung, J.; Hooper, D.; Armstrong, A.; Pitt, M.; Maruyama, B. *MRS Bulletin* 2021, 46 (7), 566–575.
+- 🧪🔬🏗️💻 | [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.
+- 🧪🔬🏗️💻 | [Accelerate Synthesis of Metal–Organic Frameworks by a Robotic Platform and Bayesian Optimization](https://doi.org/10.1021/acsami.1c16506). Xie, Y.; Zhang, C.; Deng, H.; Zheng, B.; Su, J.-W.; Shutt, K.; Lin, J. *ACS Appl. Mater. Interfaces* 2021, 13 (45), 53485–53491.
+- 🧪🔬🏗️💻 | [Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy](https://doi.org/10.1021/acsnano.1c02104). Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. *ACS Nano 2021*, 15 (8), 12604–12627.
+- 🧪🔬🏗️💻 | [Toward Autonomous Additive Manufacturing: Bayesian Optimization on a 3D Printer](https://doi.org/10.1557/s43577-021-00051-1). Deneault, J. R.; Chang, J.; Myung, J.; Hooper, D.; Armstrong, A.; Pitt, M.; Maruyama, B. *MRS Bulletin* 2021, 46 (7), 566–575.
 
 #### 2020
-- 🧪🔬🏗️💻 [Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning](https://doi.org/10.1016/j.xcrp.2020.100264). Dave, A.; Mitchell, J.; Kandasamy, K.; Wang, H.; Burke, S.; Paria, B.; Póczos, B.; Whitacre, J.; Viswanathan, V. *Cell Reports Physical Science* 2020, 1 (12), 100264.
-- 🧪🔬🏗️💻 [Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials](https://doi.org/10.1126/sciadv.aaz8867). MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. *Sci. Adv.* 2020, 6 (20), eaaz8867.
-- 🧪🔬🏗️💻 [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
-- 🧪🔬🏗️💻 [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
-- 🧪🔬🏗️💻 [Autonomous materials synthesis by machine learning and robotics](https://doi.org/10.1063/5.0020370). Shimizu, R.; Kobayashi, S.; Watanabe, Y.; Ando, Y.; Hitosugi, T. *APL Mater.* 2020, 8 (11), 111110.
+- 🧪🔬🏗️💻 | [Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning](https://doi.org/10.1016/j.xcrp.2020.100264). Dave, A.; Mitchell, J.; Kandasamy, K.; Wang, H.; Burke, S.; Paria, B.; Póczos, B.; Whitacre, J.; Viswanathan, V. *Cell Reports Physical Science* 2020, 1 (12), 100264.
+- 🧪🔬🏗️💻 | [Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials](https://doi.org/10.1126/sciadv.aaz8867). MacLeod, B. P.; Parlane, F. G. L.; Morrissey, T. D.; Häse, F.; Roch, L. M.; Dettelbach, K. E.; Moreira, R.; Yunker, L. P. E.; Rooney, M. B.; Deeth, J. R.; Lai, V.; Ng, G. J.; Situ, H.; Zhang, R. H.; Elliott, M. S.; Haley, T. H.; Dvorak, D. J.; Aspuru-Guzik, A.; Hein, J. E.; Berlinguette, C. P. *Sci. Adv.* 2020, 6 (20), eaaz8867.
+- 🧪🔬🏗️💻 | [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
+- 🧪🔬🏗️💻 | [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
+- 🧪🔬🏗️💻 | [Autonomous materials synthesis by machine learning and robotics](https://doi.org/10.1063/5.0020370). Shimizu, R.; Kobayashi, S.; Watanabe, Y.; Ando, Y.; Hitosugi, T. *APL Mater.* 2020, 8 (11), 111110.
 
 #### 2018
-- 🧪🔬🏗️💻 [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.
+- 🧪🔬🏗️💻 | [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.
 
 #### 2016
-- 🧪🔬🏗️💻 [Autonomy in Materials Research: A Case Study in Carbon Nanotube Growth](https://doi.org/10.1038/npjcompumats.2016.31). Nikolaev, P.; Hooper, D.; Webber, F.; Rao, R.; Decker, K.; Krein, M.; Poleski, J.; Barto, R.; Maruyama, B. *npj Comput Mater* 2016, 2 (1), 16031.
+- 🧪🔬🏗️💻 | [Autonomy in Materials Research: A Case Study in Carbon Nanotube Growth](https://doi.org/10.1038/npjcompumats.2016.31). Nikolaev, P.; Hooper, D.; Webber, F.; Rao, R.; Decker, K.; Krein, M.; Poleski, J.; Barto, R.; Maruyama, B. *npj Comput Mater* 2016, 2 (1), 16031.
 
 #### 2014
-- 🧪🔬🏗️💻 [Evolution of Oil Droplets in a Chemorobotic Platform](https://doi.org/10.1038/ncomms6571). Gutierrez, J. M. P.; Hinkley, T.; Taylor, J. W.; Yanev, K.; Cronin, L. *Nat Commun* 2014, 5 (1), 5571.
+- 🧪🔬🏗️💻 | [Evolution of Oil Droplets in a Chemorobotic Platform](https://doi.org/10.1038/ncomms6571). Gutierrez, J. M. P.; Hinkley, T.; Taylor, J. W.; Yanev, K.; Cronin, L. *Nat Commun* 2014, 5 (1), 5571.
 
 
 ### Education
@@ -113,22 +113,22 @@ Examples of SDLs which are used primarily in academic research settings.
 Examples of SDLs which are used primarily in educational settings.
 
 #### 2023
-- 🧪🔬🏗️💻 [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
+- 🧪🔬🏗️💻 | [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
 - [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
 
 #### 2022
-- 🧪🔬🏗️💻 [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.
-- 🧪🔬🏗️💻 [The LEGOLAS Kit: A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation](https://doi.org/10.1557/s43577-022-00430-2). Saar, L.; Liang, H.; Wang, A.; McDannald, A.; Rodriguez, E.; Takeuchi, I.; Kusne, A. G. *MRS Bulletin* 2022, 47 (9), 881–885.
+- 🧪🔬🏗️💻 | [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.
+- 🧪🔬🏗️💻 | [The LEGOLAS Kit: A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation](https://doi.org/10.1557/s43577-022-00430-2). Saar, L.; Liang, H.; Wang, A.; McDannald, A.; Rodriguez, E.; Takeuchi, I.; Kusne, A. G. *MRS Bulletin* 2022, 47 (9), 881–885.
 
 #### 2021
-- 🧪🔬🏗️💻 [Augmented Titration Setup for Future Teaching Laboratories](https://doi.org/10.1021/acs.jchemed.0c01394). Yang, F.; Lai, V.; Legard, K.; Kozdras, S.; Prieto, P. L.; Grunert, S.; Hein, J. E. J. *Chem. Educ.* 2021, 98 (3), 876–881.
+- 🧪🔬🏗️💻 | [Augmented Titration Setup for Future Teaching Laboratories](https://doi.org/10.1021/acs.jchemed.0c01394). Yang, F.; Lai, V.; Legard, K.; Kozdras, S.; Prieto, P. L.; Grunert, S.; Hein, J. E. J. *Chem. Educ.* 2021, 98 (3), 876–881.
 
 #### 2020
-- 🧪🔬🏗️💻 [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
-- 🧪🔬🏗️💻 [Autonomous Titration for Chemistry Classrooms: Preparing Students for Digitized Chemistry Laboratories](https://doi.org/10.26434/chemrxiv.12097908.v1). Häse, F.; Tamayo-Mendoza, T.; Boixo, C.; Romero, J.; Roch, L.; Aspuru-Guzik, A. *ChemRxiv* 2020.
+- 🧪🔬🏗️💻 | [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
+- 🧪🔬🏗️💻 | [Autonomous Titration for Chemistry Classrooms: Preparing Students for Digitized Chemistry Laboratories](https://doi.org/10.26434/chemrxiv.12097908.v1). Häse, F.; Tamayo-Mendoza, T.; Boixo, C.; Romero, J.; Roch, L.; Aspuru-Guzik, A. *ChemRxiv* 2020.
 
 #### 2019
-- 🧪🔬🏗️💻 [Rethinking a Timeless Titration Experimental Setup through Automation and Open-Source Robotic Technology: Making Titration Accessible for Students of All Abilities](https://doi.org/10.1021/acs.jchemed.9b00025). Soong, R.; Agmata, K.; Doyle, T.; Jenne, A.; Adamo, A.; Simpson, A. J. J. *Chem. Educ.* 2019, 96 (7), 1497–1501.
+- 🧪🔬🏗️💻 | [Rethinking a Timeless Titration Experimental Setup through Automation and Open-Source Robotic Technology: Making Titration Accessible for Students of All Abilities](https://doi.org/10.1021/acs.jchemed.9b00025). Soong, R.; Agmata, K.; Doyle, T.; Jenne, A.; Adamo, A.; Simpson, A. J. J. *Chem. Educ.* 2019, 96 (7), 1497–1501.
 
 
 ### Industry

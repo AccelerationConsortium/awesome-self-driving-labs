@@ -64,7 +64,7 @@ Review papers for self-driving laboratories, sorted by publication date.
 Examples of SDLs for [academic research](#academic-research), [education](#education), and [industry](#industry).
 
 ### Emoji Key
-The following emoji are used to help [represent fully autonomous vs. manual intervention](https://github.com/sgbaird/awesome-self-driving-labs/discussions/15) for various categories (synthesis, characterization, sample transfer, and experiment planning).
+The following emoji are used to help [represent fully autonomous vs. manual intervention](https://github.com/sgbaird/awesome-self-driving-labs/discussions/15) for various categories.
 | Category | Emoji |
 | ---- | ---- |
 | Synthesis |🧪|

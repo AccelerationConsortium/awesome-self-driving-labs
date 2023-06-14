@@ -17,6 +17,7 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+
 ## Creating a pull request
 
 See the video below for an easy-to-follow demonstration.
@@ -35,6 +36,9 @@ edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
+
+## Discussions
+Check out [existing discussions](https://github.com/sgbaird/awesome-self-driving-labs/discussions) or [create a new discussion](https://github.com/sgbaird/awesome-self-driving-labs/discussions/new/choose).
 
 ## Credits 
 

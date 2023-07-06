@@ -86,7 +86,8 @@ Examples of SDLs which are used primarily in academic research settings.
 #### 2022 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
 - 🧪🔬✖️💻 | [Autonomous retrosynthesis of gold nanoparticles via spectral shape matching](https://doi.org/10.1039/D2DD00025C). Vaddi, Kiran; Huat Thart Chiang; and Lilo D. Pozzo. *Digital Discovery* 2022, 10.1039/D2DD00025C.
-- 🧪🔬🏗️💻 | [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422. 
+- 🧪🔬🏗️💻 | [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422.
+- 🧪🔬🏗️💻 | [Using Automated Synthesis to Understand the Role of Side Chains on Molecular Charge Transport](https://doi.org/10.1038/s41467-022-29796-2). Li, S.; Jira, E. R.; Angello, N. H.; Li, J.; Yu, H.; Moore, J.S.; Diao, Y.; Burke, M. D.; Schroeder, C. M. *Nat. Commun.* 2022, 13, 2102.
 
 #### 2021 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Autonomous Materials Synthesis via Hierarchical Active Learning of Nonequilibrium Phase Diagrams](https://doi.org/10.1126/sciadv.abg4930). Ament, S.; Amsler, M.; Sutherland, D. R.; Chang, M.-C.; Guevarra, D.; Connolly, A. B.; Gregoire, J. M.; Thompson, M. O.; Gomes, C. P.; van Dover, R. B. *Sci. Adv.* 2021, 7 (51), eabg4930.

@@ -151,6 +151,7 @@ Industry examples involving SDLs.
 
 #### Software-as-a-Service (SaaS)
 - [Atinary](https://atinary.com/)
+- [IBM Accelerated Discovery](https://research.ibm.com/topics/accelerated-discovery)
 - [Citrine Informatics](https://citrine.io/)
 - [Globus](https://www.globus.org/)
 
@@ -206,6 +207,11 @@ Experimental orchestration software for autonomously controlling software-hardwa
 #### Proprietary
 - [ChemOS](https://chemos.io/)
 - [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
+- IBM Accelerated Discovery
+  - [RXN for Chemistry](https://rxn.res.ibm.com/)
+  - [Simulation Toolkit For Scientific Discovery (ST4SD)](https://st4sd.github.io/overview/)
+  - [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
+  - [Deep Search](https://ds4sd.github.io/) (semantic extraction from documents)
 
 ### Other
 - Benchmarking

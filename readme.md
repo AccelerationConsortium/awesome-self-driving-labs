@@ -153,6 +153,7 @@ Industry examples involving SDLs.
 - [Atinary](https://atinary.com/)
 - [IBM Accelerated Discovery](https://research.ibm.com/topics/accelerated-discovery)
 - [Citrine Informatics](https://citrine.io/)
+- [Sunthetics](https://sunthetics.io/)
 - [Globus](https://www.globus.org/)
 
 ### Prospective

@@ -152,7 +152,9 @@ Industry examples involving SDLs.
 
 #### Software-as-a-Service (SaaS)
 - [Atinary](https://atinary.com/)
+- [IBM Accelerated Discovery](https://research.ibm.com/topics/accelerated-discovery)
 - [Citrine Informatics](https://citrine.io/)
+- [Sunthetics](https://sunthetics.io/)
 - [Globus](https://www.globus.org/)
 
 ### Prospective
@@ -201,12 +203,18 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for
   workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),
   random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
-- [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimising chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
+- [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - A web app leveraging data-driven design for cementitious materials via a digital lab twin, complemented by a (materials-agnostic) AI optimization feature. Features UI to interactively explore  design spaces. The web app uses Python and Javascript.
+- [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimizing chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 - [GPax](https://github.com/ziatdinovmax/gpax) is a small Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)
 - [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
+- IBM Accelerated Discovery
+  - [RXN for Chemistry](https://rxn.res.ibm.com/)
+  - [Simulation Toolkit For Scientific Discovery (ST4SD)](https://st4sd.github.io/overview/)
+  - [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
+  - [Deep Search](https://ds4sd.github.io/) (semantic extraction from documents)
 
 ### Other
 - Benchmarking

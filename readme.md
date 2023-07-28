@@ -169,7 +169,7 @@ Ideas for SDLs.
 ## Software
 Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), and [other](#other) software.
 
-### Experimental Orchestration
+### Workflow Orchestration
 
 Experimental orchestration software for autonomously controlling software-hardware communication. See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists/lab-automation).
 
@@ -182,6 +182,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 - NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)] [[paper](https://doi.org/10.48550/arXiv.2304.13927)]
+- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[DOI](https://doi.org/10.5281/zenodo.5903364)]
 
 ### Optimization
 [Open-source](#open-source) and [proprietary](#proprietary) optimization software for iteratively suggesting next experiments (i.e., adaptive experimentation).

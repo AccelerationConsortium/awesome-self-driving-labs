@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-* Search previous suggestions before making a new one, as yours may be a duplicate.
+* Search [**the main page**](https://github.com/AccelerationConsortium/awesome-self-driving-labs/blob/main/readme.md) and [**previous suggestions**](https://github.com/AccelerationConsortium/awesome-self-driving-labs/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) before making a new one, as yours may be a duplicate.
 * Add your links like: `* [project-name](http://example.com) - A short description ends with a dot.`
 * If possible, input the web domain names only, as links to the particular web-pages may expire.
 * Make a remark _proprietary_ if the content is not freely available.
@@ -24,7 +24,7 @@ Also, manuscript citations follow this general format (volume, issue, and page n
 > `[Title](https://doi.org/<doi>). Last, F.; Last, F.; ... ; Last, F. *Journal* YYYY, # (#), #–#.`
 
 For example:
-- [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022.
+- 🧪🔬🏗️💻 | [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022.
 
 Thank you for your suggestions!
 

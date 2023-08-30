@@ -85,6 +85,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2022 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
+- 🧪🔬🏗️💻 | [A self-driving laboratory advances the Pareto front for material properties](https://doi.org/10.1038/s41467-022-28580-6). MacLeod, B. P., Parlane, F. G. L., Rupnow, C. C., Dettelbach, K. E., Elliott, M. S., Morrissey, T. D., Haley, T. H., Proskurin, O., Rooney, M. B., Taherimakhsousi, N., Dvorak, D. J., Chiu, H. N., Waizenegger, C. E. B., Ocean, K., Mokhtari, M. & Berlinguette, C. P. *Nat Commun.* 2022, 13, 995.
 - 🧪🔬✖️💻 | [Autonomous retrosynthesis of gold nanoparticles via spectral shape matching](https://doi.org/10.1039/D2DD00025C). Vaddi, Kiran; Huat Thart Chiang; and Lilo D. Pozzo. *Digital Discovery* 2022, 10.1039/D2DD00025C.
 - 🧪🔬🏗️💻 | [Physics Discovery in Nanoplasmonic Systems via Autonomous Experiments in Scanning Transmission Electron Microscopy](https://doi.org/10.1002/advs.202203422). Roccapriore, K. M., Kalinin, S. V., Ziatdinov, M. *Adv. Sci.* 2022, 9, 2203422. 
 

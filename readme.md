@@ -14,6 +14,7 @@
 - [Software](#software)
   - [Experimental Orchestration](#experimental-orchestration)
   - [Optimization](#optimization)
+  - [Information Management](#information-management)
   - [Other](#other)
 - [People](#people)
 - [Media](#media)
@@ -217,12 +218,26 @@ Experimental orchestration software for autonomously controlling software-hardwa
   - [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
   - [Deep Search](https://ds4sd.github.io/) (semantic extraction from documents)
 
+### Information Management
+
+i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Systems (LIMS). You may also be interested in this [list of solutions by Labii](https://github.com/Labii/comparison-of-best-electronic-lab-notebook), of course keeping in mind that the list is compiled by a specific ELN company.
+
+#### Open-source
+- [eLabFTW](https://www.elabftw.net/)
+
+#### Proprietary
+- [SciNote](https://www.scinote.net/)
+- [Uncountable](https://www.uncountable.com/)
+- [Protocols.io](https://protocols.io)
+- [Labii](https://www.labii.com/)
+- [Scisopt](https://www.scispot.com/)
+
 ### Other
 - Benchmarking
   - [Olympus](https://github.com/aspuru-guzik-group/olympus) is a benchmarking framework based primarily on data collected from experimental self-driving lab setups.
 - Functional Data Analysis
   - [Amplitude-Phase-Distance](https://github.com/kiranvad/Amplitude-Phase-Distance) is a Riemannian differential geometry toolbox to compute a `shape' distance between electromagnetic spectra, scattering, or diffraction profiles.
-  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
+  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data. 
 
 ## People
 WIP

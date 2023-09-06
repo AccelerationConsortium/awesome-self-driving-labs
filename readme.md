@@ -230,7 +230,7 @@ i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Syst
 - [Uncountable](https://www.uncountable.com/)
 - [Protocols.io](https://protocols.io)
 - [Labii](https://www.labii.com/)
-- [Scisopt](https://www.scispot.com/)
+- [Scispot](https://www.scispot.com/)
 
 ### Other
 - Benchmarking

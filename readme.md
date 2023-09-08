@@ -169,7 +169,7 @@ Ideas for SDLs.
 - [An Automated Biomateriomics Platform for Sustainable Programmable Materials Discovery](https://doi.org/10.1016/j.matt.2022.10.003). Lee, N. A.; Shen, S. C.; Buehler, M. J. Matter 2022, 5 (11), 3597–3613. Commented, since I haven't read through these works---->
 
 ## Software
-Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), and [other](#other) software.
+Examples of [experimental orchestration](#experimental-orchestration-software), [optimization](#optimization), [information management](#information-management), and [other](#other) software.
 
 ### Workflow Orchestration
 

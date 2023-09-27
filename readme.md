@@ -79,7 +79,7 @@ The following emoji are used to help [represent fully autonomous vs. manual inte
 
 Examples of SDLs which are used primarily in academic research settings.
 
-#### 2023 <!-- omit from toc --> 
+#### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [A Robotic Platform for the Synthesis of Colloidal Nanocrystals](https://doi.org/10.1038/s44160-023-00250-5). Zhao, H.; Chen, W.; Huang, H.; Sun, Z.; Chen, Z.; Wu, L.; Zhang, B.; Lai, F.; Wang, Z.; Adam, M. L.; Pang, C. H.; Chu, P. K.; Lu, Y.; Wu, T.; Jiang, J.; Yin, Z.; Yu, X.-F. *Nat. Synth* 2023, 2 (6), 505–514. 10.1038/s44160-023-00250-5.
 - 🧪🔬🏗️💻 | [Autonomous, multi-property-driven molecular discovery: From predictions to measurements and back](https://doi.org/10.26434/chemrxiv-2023-r7b01). Koscher, B.; Canty, R. B.; McDonald, M. A.; Greenman, K. P.; McGill, C. J.; Bilodeau, C. L.; Jin, W.; Wu, H.; Vermeire, F. H.; Jin, B.; Hart, T.; Kulesza, T.; Li, S.-C.; Jaakkola, T. S.; Barzilay, R.; Gómez-Bombarelli, R.; Green, W. H.; & Jensen, K. F. *ChemRxiv* 2023, doi:10.26434/chemrxiv-2023-r7b01.
 - 🧪🔬🏗️💻 | [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023, doi:10.1101/2023.05.20.541582.

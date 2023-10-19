@@ -12,7 +12,7 @@
   - [Industry](#industry)
   - [Prospective](#prospective)
 - [Software](#software)
-  - [Experimental Orchestration](#experimental-orchestration)
+  - [Workflow Orchestration](#workflow-orchestration)
   - [Optimization](#optimization)
   - [Information Management](#information-management)
   - [Other](#other)

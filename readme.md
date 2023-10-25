@@ -121,7 +121,7 @@ Examples of SDLs which are used primarily in educational settings.
 
 #### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
-- [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
+- 🧪🔬🏗️💻 | [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
 
 #### 2022 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.

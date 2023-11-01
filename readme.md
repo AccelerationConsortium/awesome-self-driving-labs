@@ -98,6 +98,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - 🧪🔬🏗️💻 | [Automated and Autonomous Experiments in Electron and Scanning Probe Microscopy](https://doi.org/10.1021/acsnano.1c02104). Kalinin, S. V.; Ziatdinov, M.; Hinkle, J.; Jesse, S.; Ghosh, A.; Kelley, K. P.; Lupini, A. R.; Sumpter, B. G.; Vasudevan, R. K. *ACS Nano 2021*, 15 (8), 12604–12627.
 - 🧪🔬✖️💻 | [Realization of closed-loop optimization of epitaxial titanium nitride thin-film growth via machine learning](https://doi.org/10.1016/j.mtphys.2020.100296). Ohkubo, I.; Hou, Z.; Lee, J. N.; Aizawa, T.' Lippmaa, M.; Chikyow, T.; Mori, T. *Materials Today Physics* 2021, 16, 100296.
 - 🧪🔬🏗️💻 | [Toward Autonomous Additive Manufacturing: Bayesian Optimization on a 3D Printer](https://doi.org/10.1557/s43577-021-00051-1). Deneault, J. R.; Chang, J.; Myung, J.; Hooper, D.; Armstrong, A.; Pitt, M.; Maruyama, B. *MRS Bulletin* 2021, 46 (7), 566–575.
+- 🧪🔬🏗️💻 | [Using simulation to accelerate autonomous experimentation: A case study using mechanics](https://doi.org/10.1016/j.isci.2021.102262). Gongora, A. E.; Snapp, K. L.; Whiting, E.; Riley, P.; Reyes, K. G.; Morgan, E. F.; Brown, K. A., *Iscience* 2021, 24(4).
 
 #### 2020 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning](https://doi.org/10.1016/j.xcrp.2020.100264). Dave, A.; Mitchell, J.; Kandasamy, K.; Wang, H.; Burke, S.; Paria, B.; Póczos, B.; Whitacre, J.; Viswanathan, V. *Cell Reports Physical Science* 2020, 1 (12), 100264.
@@ -105,6 +106,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - 🧪🔬🏗️💻 | [ChemOS: An Orchestration Software to Democratize Autonomous Discovery](https://doi.org/10.1371/journal.pone.0229862). Roch, L. M.; Häse, F.; Kreisbeck, C.; Tamayo-Mendoza, T.; Yunker, L. P. E.; Hein, J. E.; Aspuru-Guzik, A. *PLoS ONE* 2020, 15 (4), e0229862.
 - 🧪🔬🏗️💻 | [Beyond Ternary OPV: High‐Throughput Experimentation and Self‐Driving Laboratories Optimize Multicomponent Systems](https://doi.org/10.1002/adma.201907801). Langner, S.; Häse, F.; Perea, J. D.; Stubhan, T.; Hauch, J.; Roch, L. M.; Heumueller, T.; Aspuru‐Guzik, A.; Brabec, C. J. *Adv. Mater.* 2020, 32 (14), 1907801.
 - 🧪🔬🏗️💻 | [Autonomous materials synthesis by machine learning and robotics](https://doi.org/10.1063/5.0020370). Shimizu, R.; Kobayashi, S.; Watanabe, Y.; Ando, Y.; Hitosugi, T. *APL Mater.* 2020, 8 (11), 111110.
+- 🧪🔬🏗️💻 | [A Bayesian experimental autonomous researcher for mechanical design](https://doi.org/10.1126/sciadv.aaz1708). Gongora, A. E.; Xu, B.; Perry, W.; Okoye, C.; Riley, P.; Reyes, K. G.; Morgan, E. F.; Brown, K. A. *Sci. Adv.* 2020, 6 (15), eaaz1708.
 
 #### 2018 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Networking Chemical Robots for Reaction Multitasking](https://doi.org/10.1038/s41467-018-05828-8). Caramelli, D.; Salley, D.; Henson, A.; Camarasa, G. A.; Sharabi, S.; Keenan, G.; Cronin, L. *Nat Commun* 2018, 9 (1), 3406.
@@ -123,6 +125,7 @@ Examples of SDLs which are used primarily in educational settings.
 #### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Automated PH Adjustment Driven by Robotic Workflows and Active Machine Learning](https://doi.org/10.1016/j.cej.2022.139099). Pomberger, A.; Jose, N.; Walz, D.; Meissner, J.; Holze, C.; Kopczynski, M.; Müller-Bischof, P.; Lapkin, A. A. *Chemical Engineering Journal* 2023, 451, 139099.
 - 🧪🔬🏗️💻 | [Build Instructions for Closed-Loop Spectroscopy Lab: Light-Mixing Demo](https://doi.org/10.26434/chemrxiv-2023-xgx5h). Baird, S. G.; Sparks, T. D. *ChemRxiv* January 9, 2023.
+- 🧪🔬🏗️💻 | [Driving school for self-driving labs](https://doi.org/10.1039/D3DD00150D). Snapp, K. L.; Brown, K. A. *Digital Discovery* 2023, 10.1039/D3DD00150D.
 
 #### 2022 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [What Is a Minimal Working Example for a Self-Driving Laboratory?](https://doi.org/10.1016/j.matt.2022.11.007). Baird, S. G.; Sparks, T. D. *Matter* 2022, 5 (12), 4170–4178.

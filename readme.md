@@ -212,7 +212,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
   random exploration, and a multi-objective variant of [PHYSBO](https://github.com/issp-center-dev/PHYSBO).
 - [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - A web app leveraging data-driven design for cementitious materials via a digital lab twin, complemented by a (materials-agnostic) AI optimization feature. Features UI to interactively explore  design spaces. The web app uses Python and Javascript.
 - [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimizing chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
-- [GPax](https://github.com/ziatdinovmax/gpax) is a small Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization.
+- [GPax](https://github.com/ziatdinovmax/gpax) is a Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

@@ -206,6 +206,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
   - [Gemini](https://github.com/aspuru-guzik-group/gemini) is a scalable multi-fidelity Bayesian optimization technique and is supported by Gryffin.
   - [Golem](https://github.com/aspuru-guzik-group/golem) is an algorithm that helps identify optimal solutions that are robust to input uncertainty (i.e., robust optimization).
   - [Phoenics](https://github.com/aspuru-guzik-group/phoenics) is a linear-scaling Bayesian optimization algorithm with support for batch and periodic parameter optimization.
+  - [Anubis](https://github.com/aspuru-guzik-group/atlas-unknown-constraints) is a Bayesian optimization algorithm that models unknown feasibility constraints and incorporates it into the acquisition function
 - [BoFire](https://github.com/experimental-design/bofire) is a **B**ayesian **O**ptimization **F**ramework **I**ntended for **R**eal **E**xperiments (under development) with support for advanced optimization tasks such as mixed variables, multiple objectives, and generic constraints.
 - [NIMS-OS](https://github.com/nimsos-dev/nimsos) is a Python package (+GUI) for
   workflow orchestration and multi-objective optimization software that supports [BLOX](https://github.com/tsudalab/BLOX), [PDC](https://github.com/tsudalab/PDC),

@@ -195,7 +195,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 #### General Purpose
 
 - Prefect [[code](https://github.com/PrefectHQ/prefect) [[docs](https://www.prefect.io/)]
-- Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)
+- Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)]
 
 <!--- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[doi](https://doi.org/10.5281/zenodo.5903364)] --->
 

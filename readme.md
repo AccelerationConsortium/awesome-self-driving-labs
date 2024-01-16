@@ -180,6 +180,8 @@ Examples of [experimental orchestration](#experimental-orchestration-software), 
 
 Experimental orchestration software for autonomously controlling software-hardware communication.
 
+#### Experimental Science
+
 - Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
 - Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
 - HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](https://dx.doi.org/10.1002/admi.202101987)]
@@ -189,7 +191,11 @@ Experimental orchestration software for autonomously controlling software-hardwa
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 - NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)] [[paper](https://doi.org/10.48550/arXiv.2304.13927)]
+
+#### General Purpose
+
 - Prefect [[code](https://github.com/PrefectHQ/prefect) [[docs](https://www.prefect.io/)]
+- Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)
 
 <!--- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[doi](https://doi.org/10.5281/zenodo.5903364)] --->
 

@@ -240,6 +240,7 @@ i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Syst
 
 #### Open-source
 - [eLabFTW](https://www.elabftw.net/)
+- [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html)
 
 #### Proprietary
 - [SciNote](https://www.scinote.net/)

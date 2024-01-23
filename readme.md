@@ -14,7 +14,7 @@
 - [Software](#software)
   - [Workflow Orchestration](#workflow-orchestration)
   - [Optimization](#optimization)
-  - [Information Management](#information-management)
+  - [Research Data Management](#research-data-management)
   - [Other](#other)
 - [People](#people)
 - [Media](#media)
@@ -235,13 +235,13 @@ See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists
   - [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
   - [Deep Search](https://ds4sd.github.io/) (semantic extraction from documents)
 
-### Information Management
+### Research Data Management
 
-i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Systems (LIMS). You may also be interested in this [list of solutions by Labii](https://github.com/Labii/comparison-of-best-electronic-lab-notebook), of course keeping in mind that the list is compiled by a specific ELN company.
+i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Systems (LIMS). You may also be interested in this [list of solutions by Labii](https://github.com/Labii/comparison-of-best-electronic-lab-notebook), of course keeping in mind that the list is compiled by a specific ELN company. See also this [ELN Finder tool](https://eln-finder.ulb.tu-darmstadt.de/home).
 
 #### Open-source
 - [eLabFTW](https://www.elabftw.net/)
-- [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html) [[Tutorials](https://www.youtube.com/playlist?list=PLrRaxjvn6FDWJHeIwvmnmy7frNyO6QDX4)]
+- [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html) [[Example](https://www.youtube.com/watch?v=KVpUUJ5VFh4&t)]
 
 #### Proprietary
 - [SciNote](https://www.scinote.net/)

@@ -32,6 +32,7 @@ Review papers for self-driving laboratories, sorted by publication date.
 - [Next-Generation Intelligent Laboratories for Materials Design and Manufacturing](https://doi.org/10.1557/s43577-023-00481-z). Peng, X.; Wang, X.; Brown, K. A.; Abolhasani, M. *MRS Bulletin* 2023.
 - [Toward Autonomous Laboratories: Convergence of Artificial Intelligence and Experimental Automation](https://doi.org/10.1016/j.pmatsci.2022.101043) Xie, Y.; Sattari, K.; Zhang, C.; Lin, J. *Progress in Materials Science* 2023, 132, 101043.
 - [The Rise of Self-Driving Labs in Chemical and Materials Sciences](https://doi.org/10.1038/s44160-022-00231-0). Abolhasani, M.; Kumacheva, E. *Nat. Synth* 2023, 1–10.
+- [The Digital Lab Framework as part of The World Avatar](https://como.ceb.cam.ac.uk/preprints/314/). Rihm, S. D.; Bai, J.; Kondinski, A.; Mosbach, S.; Akroyd, J.; Kraft, M. *preprint* 2023.
 
 ### 2022 <!-- omit from toc -->
 - [Research Acceleration in Self‐Driving Labs: Technological Roadmap toward Accelerated Materials and Molecular Discovery](https://doi.org/10.1002/aisy.202200331). Delgado-Licona, F.; Abolhasani, M. *Advanced Intelligent Systems* 2022, 2200331.
@@ -43,6 +44,7 @@ Review papers for self-driving laboratories, sorted by publication date.
 - [Reaching Critical MASS: Crowdsourcing Designs for the next Generation of Materials Acceleration Platforms](https://doi.org/10.1016/j.matt.2022.05.035). Seifrid, M.; Hattrick-Simpers, J.; Aspuru-Guzik, A.; Kalil, T.; Cranford, S. *Matter* 2022, 5 (7), 1972–1976.
 - [Defining Levels of Automated Chemical Design](https://doi.org/10.1021/acs.jmedchem.2c00334). Goldman, B.; Kearnes, S.; Kramer, T.; Riley, P.; Walters, W. P. *J. Med. Chem.* 2022, 65 (10), 7073–7087.
 - [Toward Autonomous Materials Research: Recent Progress and Future Challenges](https://doi.org/10.1063/5.0076324). Montoya, J. H.; Aykol, M.; Anapolsky, A.; Gopal, C. B.; Herring, P. K.; Hummelshøj, J. S.; Hung, L.; Kwon, H.-K.; Schweigert, D.; Sun, S.; Suram, S. K.; Torrisi, S. B.; Trewartha, A.; Storey, B. D. *Applied Physics Reviews* 2022, 9 (1), 011405.
+- [From Platform to Knowledge Graph: Evolution of Laboratory Automation](https://doi.org/10.1021/jacsau.1c00438). Bai, J.; Cao, L.; Mosbach, S.; Akroyd, J.; Lapkin, A. A.; Kraft, K. *JACS Au* 2022, 2 (2), 292–309.
 
 ### 2021 <!-- omit from toc -->
 - [Enabling Modular Autonomous Feedback-Loops in Materials Science through Hierarchical Experimental Laboratory Automation and Orchestration](https://doi.org/10.1002/admi.202101987). Rahmanian, F.; Flowers, J.; Guevarra, D.; Richter, M.; Fichtner, M.; Donnely, P.; Gregoire, J. M.; Stein, H. S. *Advanced Materials Interfaces* 2022, 9 (8), 2101987.
@@ -78,6 +80,9 @@ The following emoji are used to help [represent full autonomy vs. manual interve
 ### Academic Research
 
 Examples of SDLs which are used primarily in academic research settings.
+
+#### 2024 <!-- omit from toc -->
+- 🧪🔬🏗️💻 | [A dynamic knowledge graph approach to distributed self-driving laboratories](https://doi.org/10.1038/s41467-023-44599-9). Bai, J.; Mosbach, S.; Taylor, C. J.; Karan, D.; Lee, K. F.; Rihm, S. D.; Akroyd, J.; Lapkin, A. A.; Kraft, M. *Nat. Commun.* 2024, 15, 462.
 
 #### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️✖️ | [Powder-Bot: A Modular Autonomous Multi-Robot Workflow for Powder X-Ray Diffraction](https://doi.org/10.48550/arXiv.2309.00544). Lunt, A. M.; Fakhruldeen, H.; Pizzuto, G.; Longley, L.; White, A.; Rankin, N.; Clowes, R.; Alston, B. M.; Cooper, A. I.; Chong, S. Y. *arXiv* 2023.
@@ -196,6 +201,7 @@ Experimental orchestration software for autonomously controlling software-hardwa
 
 - Prefect [[code](https://github.com/PrefectHQ/prefect) [[docs](https://www.prefect.io/)]
 - Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)]
+- Derived Information Framework [[code](https://github.com/cambridge-cares/TheWorldAvatar/tree/main/JPS_BASE_LIB/python_derivation_agent)] [[docs](https://github.com/cambridge-cares/TheWorldAvatar/blob/main/JPS_BASE_LIB/python_derivation_agent/README.md)] [[paper](https://doi.org/10.1016/j.future.2023.10.008)]
 
 <!--- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[doi](https://doi.org/10.5281/zenodo.5903364)] --->
 

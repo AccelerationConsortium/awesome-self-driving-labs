@@ -28,6 +28,7 @@
 Review papers for self-driving laboratories, sorted by publication date.
 
 ### 2023 <!-- omit from toc -->
+- [Review of Low-Cost Self-Driving Laboratories: The “Frugal Twin” Concept](https://doi.org/10.26434/chemrxiv-2023-6z9mq). Lo, S.; Baird, S.; Schrier, J.; Blaiszik, B.; Kalinin, S.; Tran, H.; Sparks, T.; Aspuru-Guzik, A. _ChemRxiv_ 2023.
 - [Role of AI in Experimental Materials Science](https://doi.org/10.1557/s43577-023-00482-y). Abolhasani, M.; Brown, K. A.; Guest Editors. *MRS Bulletin* 2023.
 - [Next-Generation Intelligent Laboratories for Materials Design and Manufacturing](https://doi.org/10.1557/s43577-023-00481-z). Peng, X.; Wang, X.; Brown, K. A.; Abolhasani, M. *MRS Bulletin* 2023.
 - [Toward Autonomous Laboratories: Convergence of Artificial Intelligence and Experimental Automation](https://doi.org/10.1016/j.pmatsci.2022.101043) Xie, Y.; Sattari, K.; Zhang, C.; Lin, J. *Progress in Materials Science* 2023, 132, 101043.

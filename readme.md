@@ -199,10 +199,11 @@ Experimental orchestration software for autonomously controlling laboratory expe
 - Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)]
 - Robot Operating System (ROS) [[code](https://github.com/ros/ros)] [[docs](https://www.ros.org/)]
 
-#### Communication Protocols
+#### Communication Protocols/Server Frameworks
 - MQTT [[code (Python interface)](https://github.com/eclipse/paho.mqtt.python)] [[docs](https://mqtt.org/)]
 - SiLA2 (based on HTTP/2) [[code (Python interface)](https://gitlab.com/SiLA2/sila_python)] [[docs](https://sila-standard.com/standards/)]
 - OPC-UA [[code (Python interface)](https://github.com/FreeOpcUa/python-opcua)] [[docs](https://opcfoundation.org/about/opc-technologies/opc-ua/)]
+- Robot Operating System (ROS) [[code](https://github.com/ros/ros)] [[docs](https://www.ros.org/)]
 
 <!--- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[doi](https://doi.org/10.5281/zenodo.5903364)] --->
 

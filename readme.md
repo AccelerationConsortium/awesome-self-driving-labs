@@ -178,13 +178,14 @@ Examples of [experimental orchestration](#experimental-orchestration-software), 
 
 ### Workflow Orchestration
 
-Experimental orchestration software for autonomously controlling software-hardware communication.
+Experimental orchestration software for autonomously controlling laboratory experiments.
 
 #### Experimental Science
 
 - Alab Management [[code](https://github.com/CederGroupHub/alab_management)] [[docs](https://alab-management.readthedocs.io/en/latest/)]
 - Bluesky [[code](https://github.com/bluesky/bluesky)] [[docs](https://blueskyproject.io/bluesky/)]
 - HELAO [[code](https://github.com/helgestein/helao-pub)] [[paper](https://dx.doi.org/10.1002/admi.202101987)]
+- ChemOS 2.0 [[code]()] [[paper]()]
 - Chemios [[code](https://github.com/Chemios/chemios)]
 - ARES OS [[code](https://github.com/AFRL-ARES/ARES_OS)] [[paper](https://dx.doi.org/10.1557/s43577-021-00051-1)]
 - PLACE [[code](https://github.com/PALab/place)] [[paper](https://doi.org/10.1177/2211068214553022)]
@@ -196,6 +197,12 @@ Experimental orchestration software for autonomously controlling software-hardwa
 
 - Prefect [[code](https://github.com/PrefectHQ/prefect) [[docs](https://www.prefect.io/)]
 - Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)]
+- Robot Operating System (ROS) [[code](https://github.com/ros/ros)] [[docs](https://www.ros.org/)]
+
+#### Communication Protocols
+- MQTT [[code (Python interface)](https://github.com/eclipse/paho.mqtt.python)] [[docs](https://mqtt.org/)]
+- SiLA2 (based on HTTP/2) [[code (Python interface)](https://gitlab.com/SiLA2/sila_python)] [[docs](https://sila-standard.com/standards/)]
+- OPC-UA [[code (Python interface)](https://github.com/FreeOpcUa/python-opcua)] [[docs](https://opcfoundation.org/about/opc-technologies/opc-ua/)]
 
 <!--- Covalent [[code](https://github.com/AgnostiqHQ/covalent)] [[docs](https://www.covalent.xyz/)] [[doi](https://doi.org/10.5281/zenodo.5903364)] --->
 

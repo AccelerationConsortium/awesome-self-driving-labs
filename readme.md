@@ -269,7 +269,9 @@ i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Syst
   - [Olympus](https://github.com/aspuru-guzik-group/olympus) is a benchmarking framework based primarily on data collected from experimental self-driving lab setups.
 - Functional Data Analysis
   - [Amplitude-Phase-Distance](https://github.com/kiranvad/Amplitude-Phase-Distance) is a Riemannian differential geometry toolbox to compute a `shape' distance between electromagnetic spectra, scattering, or diffraction profiles.
-  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data. 
+  - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
+- Instrument-specific drivers
+  - Chemspyd [[code](https://gitlab.com/aspuru-guzik-group/self-driving-lab/instruments/chemspyd)] [[paper](https://chemrxiv.org/engage/chemrxiv/article-details/65d39af766c13817290035c1)] is a Python API for the Chemspeed AutoSuite software.
 
 ## People
 WIP

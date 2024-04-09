@@ -83,6 +83,7 @@ Examples of SDLs which are used primarily in academic research settings.
 
 #### 2024 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [A dynamic knowledge graph approach to distributed self-driving laboratories](https://doi.org/10.1038/s41467-023-44599-9). Bai, J.; Mosbach, S.; Taylor, C. J.; Karan, D.; Lee, K. F.; Rihm, S. D.; Akroyd, J.; Lapkin, A. A.; Kraft, M. *Nat. Commun.* 2024, 15, 462.
+- 🧪🔬🏗️💻 | [Navigating phase diagram complexity to guide robotic inorganic materials synthesis](https://doi.org/10.1038/s44160-024-00502-y). Chen, J.; Cross, S. R.; Miara, L. J.; Cho, J.-J.; Wang, Y.; Sun, W. *Nat. Synth* 2024.
 
 #### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️✖️ | [Powder-Bot: A Modular Autonomous Multi-Robot Workflow for Powder X-Ray Diffraction](https://doi.org/10.48550/arXiv.2309.00544). Lunt, A. M.; Fakhruldeen, H.; Pizzuto, G.; Longley, L.; White, A.; Rankin, N.; Clowes, R.; Alston, B. M.; Cooper, A. I.; Chong, S. Y. *arXiv* 2023.

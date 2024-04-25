@@ -239,6 +239,7 @@ See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists
 - [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimizing chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 - [GPax](https://github.com/ziatdinovmax/gpax) is a Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization. It supports "deep kernel learning", structured probabilistic mean functions, hypothesis learning workflows, multitask, multifidelity, heteroscedastic, and vector BO and emphasizes user friendliness.
 - [Bayesian Back End (BayBE)](https://github.com/emdgroup/baybe) is a open-source toolbox by [Merck KGaA](https://www.merckgroup.com/) for Bayesian optimization, featuring custom encodings, chemical knowledge integration, hybrid spaces, transfer learning, simulation tools, and robust, serializable code for real-world experimental campaigns.
+- [Honegumi](https://honegumi.readthedocs.io/) ("ho-nay-goo-mee"), which means “skeletal framework” in Japanese, is a package for interactively creating minimal working examples for advanced Bayesian optimization topics.
 
 #### Proprietary
 - [ChemOS](https://chemos.io/)

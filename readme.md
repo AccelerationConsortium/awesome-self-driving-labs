@@ -16,6 +16,7 @@
   - [Optimization](#optimization)
   - [Research Data Management](#research-data-management)
   - [Other](#other)
+- [Hardware](#hardware)
 - [People](#people)
 - [Media](#media)
 - [Contribute](#contribute)
@@ -273,6 +274,12 @@ i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Syst
   - [autophasemap](https://github.com/pozzo-research-group/papers/tree/main/autophasemap) is a clustering and phase mapping toolbox using the amplitude phase distance for autonomous construction of phasemaps from spectra-like data.
 - Instrument-specific drivers
   - Chemspyd [[code](https://gitlab.com/aspuru-guzik-group/self-driving-lab/instruments/chemspyd)] [[paper](https://chemrxiv.org/engage/chemrxiv/article-details/65d39af766c13817290035c1)] is a Python API for the Chemspeed AutoSuite software.
+
+## Hardware
+
+### Open-source
+
+- [Science Jubilee](https://machineagency.github.io/science_jubilee/)
 
 ## People
 WIP

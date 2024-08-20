@@ -27,6 +27,8 @@
 ## Review Papers
 
 Review papers for self-driving laboratories, sorted by publication date.
+### 2024 <!-- omit from toc -->
+- [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055). Tom, G.; Schmid, S. P.; Baird, S. G.; Cao, Y.; Darvish, K.; Hao, H.; Lo, S.; Pablo-Garcia, S.; Rajaonson, E. M.; Skreta, M.; Yoshikawa, N.; Corapi, S.; Akkoc, G. D.; Strieth-Kalthoff, F.; Seifrid, M.; Aspuru-Guzik, A. *Chemical Reviews* 2024.
 
 ### 2023 <!-- omit from toc -->
 - [Role of AI in Experimental Materials Science](https://doi.org/10.1557/s43577-023-00482-y). Abolhasani, M.; Brown, K. A.; Guest Editors. *MRS Bulletin* 2023.

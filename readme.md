@@ -24,6 +24,8 @@
 
 > A `BibTeX` file of all the references below with a `DOI` can be downloaded [here](bibtex/references.bib)
 
+Tip: Consider connecting with others on [the Accelerated Discovery forum](https://accelerated-discovery.org/), hosted by the Acceleration Consortium 🤝.
+
 ## Review Papers
 
 Review papers for self-driving laboratories, sorted by publication date.

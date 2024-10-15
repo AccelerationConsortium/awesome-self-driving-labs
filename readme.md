@@ -314,6 +314,11 @@ https://acceleration.utoronto.ca/researcher
 - [Self-driving Laboratories do Research on Autopilot](https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/). Hackaday 2022.
 - [Lowe, D. The Downside of Chemistry Automation](https://www.science.org/content/blog-post/downside-chemistry-automation). (accessed 2022-08-26).
 
+### Forums
+
+1. https://labautomation.io/
+2. https://accelerated-discovery.org/
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

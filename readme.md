@@ -316,8 +316,8 @@ https://acceleration.utoronto.ca/researcher
 
 ### Forums
 
-1. https://labautomation.io/
-2. https://accelerated-discovery.org/
+1. https://accelerated-discovery.org/
+2. https://labautomation.io/
 
 ## Contribute
 

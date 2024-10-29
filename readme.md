@@ -90,6 +90,8 @@ The following emoji are used to help [represent full autonomy vs. manual interve
 Examples of SDLs which are used primarily in academic research settings.
 
 #### 2024 <!-- omit from toc -->
+
+- 🧪🔬🏗️💻 | [Delocalized, Asynchronous, Closed-Loop Discovery of Organic Laser Emitters](https://doi.org/10.1126/science.adk9227). Strieth-Kalthoff, F.; Hao, H.; Rathore, V.; Derasp, J.; Gaudin, T.; Angello, N. H.; Seifrid, M.; Trushina, E.; Guy, M.; Liu, J.; Tang, X.; Mamada, M.; Wang, W.; Tsagaantsooj, T.; Lavigne, C.; Pollice, R.; Wu, T. C.; Hotta, K.; Bodo, L.; Li, S.; Haddadnia, M.; Wołos, A.; Roszak, R.; Ser, C. T.; Bozal-Ginesta, C.; Hickman, R. J.; Vestfrid, J.; Aguilar-Granda, A.; Klimareva, E. L.; Sigerson, R. C.; Hou, W.; Gahler, D.; Lach, S.; Warzybok, A.; Borodin, O.; Rohrbach, S.; Sanchez-Lengeling, B.; Adachi, C.; Grzybowski, B. A.; Cronin, L.; Hein, J. E.; Burke, M. D.; Aspuru-Guzik, A. _Science_ 2024, 384 (6697).
 - 🧪🔬🏗️💻 | [A dynamic knowledge graph approach to distributed self-driving laboratories](https://doi.org/10.1038/s41467-023-44599-9). Bai, J.; Mosbach, S.; Taylor, C. J.; Karan, D.; Lee, K. F.; Rihm, S. D.; Akroyd, J.; Lapkin, A. A.; Kraft, M. *Nat. Commun.* 2024, 15, 462.
 
 #### 2023 <!-- omit from toc -->

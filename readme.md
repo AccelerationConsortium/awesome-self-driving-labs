@@ -134,6 +134,9 @@ Examples of SDLs which are used primarily in academic research settings.
 #### 2014 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [Evolution of Oil Droplets in a Chemorobotic Platform](https://doi.org/10.1038/ncomms6571). Gutierrez, J. M. P.; Hinkley, T.; Taylor, J. W.; Yanev, K.; Cronin, L. *Nat Commun* 2014, 5 (1), 5571.
 
+#### 2004 <!-- omit from toc -->
+- 🧪🔬🏗️💻 | [Functional genomic hypothesis generation and experimentation by a robot scientist](https://doi.org/10.1038/nature02236). King, R. D.; Whelan, K. E.; Jones, F. M.; Reiser, P. G. K.; Bryant, C. H.; Muggleton, S. H.; Kell, D. B.; Oliver, S. G. _Nature_ 427, 247–252 (2004).
+
 
 ### Education
 

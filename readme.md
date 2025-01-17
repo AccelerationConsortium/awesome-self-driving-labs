@@ -94,6 +94,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - 🧪🔬🏗️💻 | [Delocalized, Asynchronous, Closed-Loop Discovery of Organic Laser Emitters](https://doi.org/10.1126/science.adk9227). Strieth-Kalthoff, F.; Hao, H.; Rathore, V.; Derasp, J.; Gaudin, T.; Angello, N. H.; Seifrid, M.; Trushina, E.; Guy, M.; Liu, J.; Tang, X.; Mamada, M.; Wang, W.; Tsagaantsooj, T.; Lavigne, C.; Pollice, R.; Wu, T. C.; Hotta, K.; Bodo, L.; Li, S.; Haddadnia, M.; Wołos, A.; Roszak, R.; Ser, C. T.; Bozal-Ginesta, C.; Hickman, R. J.; Vestfrid, J.; Aguilar-Granda, A.; Klimareva, E. L.; Sigerson, R. C.; Hou, W.; Gahler, D.; Lach, S.; Warzybok, A.; Borodin, O.; Rohrbach, S.; Sanchez-Lengeling, B.; Adachi, C.; Grzybowski, B. A.; Cronin, L.; Hein, J. E.; Burke, M. D.; Aspuru-Guzik, A. _Science_ 2024, 384 (6697).
 - 🧪🔬🏗️💻 | [A dynamic knowledge graph approach to distributed self-driving laboratories](https://doi.org/10.1038/s41467-023-44599-9). Bai, J.; Mosbach, S.; Taylor, C. J.; Karan, D.; Lee, K. F.; Rihm, S. D.; Akroyd, J.; Lapkin, A. A.; Kraft, M. *Nat. Commun.* 2024, 15, 462.
 - 🧪🔬🏗️💻 | [Navigating phase diagram complexity to guide robotic inorganic materials synthesis](https://doi.org/10.1038/s44160-024-00502-y). Chen, J.; Cross, S. R.; Miara, L. J.; Cho, J.-J.; Wang, Y.; Sun, W. *Nat. Synth* 2024.
+- 🧪🔬✖️💻 | [Autonomous Battery Optimization by Deploying Distributed Experiments and Simulations](https://doi.org/10.1002/aenm.202403263). Vogler, M.; Steensen, S. K.; Ramírez, F. F.; Merker, L.; Busk, J.; Carlsson, J. M.; Rieger, L. H.; Zhang, B.; Liot, F.; Pizzi, G.; Hanke, F.; Flores, E.; Hajiyani, H.; Fuchs, S.; Sanin, A.; Gaberšček, M.; Castelli, I. E.; Clark, S.; Vegge, T.; Bhowmik, A. & Stein, H. S. *Advanced Energy Materials* 2024, 14 (46), 2403263.
 
 #### 2023 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [An autonomous laboratory for the accelerated synthesis of novel materials](https://doi.org/10.1038/s41586-023-06734-w). Szymanski, N. J.; Rendy, B.; Fei, Y.; Kumar, R. E.; He, T.; Milsted, D.; McDermott, M. J.; Gallant, M.; Cubuk, E. D.; Merchant, A.; Kim, H.; Jain, A.; Bartel, C. J.; Persson, K.; Zeng, Y.; & Ceder, G. *Nature* 2023.
@@ -102,6 +103,7 @@ Examples of SDLs which are used primarily in academic research settings.
 - 🧪🔬🏗️💻 | [Autonomous, multiproperty-driven molecular discovery: From predictions to measurements and back](https://doi.org/10.1126/science.adi1407). Koscher, B.; Canty, R. B.; McDonald, M. A.; Greenman, K. P.; McGill, C. J.; Bilodeau, C. L.; Jin, W.; Wu, H.; Vermeire, F. H.; Jin, B.; Hart, T.; Kulesza, T.; Li, S.-C.; Jaakkola, T. S.; Barzilay, R.; Gómez-Bombarelli, R.; Green, W. H.; & Jensen, K. F. *Science* 2023.
 - 🧪🔬🏗️💻 | [Self-driving laboratories to autonomously navigate the protein fitness landscape](https://doi.org/10.1101/2023.05.20.541582). Rapp, J. T.; Bremer, B. J.; Romero, P. A. *bioRxiv* 2023.
 - 🧪🔬🏗️💻 | [NIMS-OS: An automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://doi.org/10.48550/arXiv.2304.13927). Tamura, R.; Tsuda, K.; Matsuda, S. *arXiv* 2023.
+- 🧪🔬🏗️💻 | [Brokering between tenants for an international materials acceleration platform](https://doi.org/10.1016/j.matt.2023.07.016). Vogler, M.; Busk, J.; Hajiyani, H.; Jørgensen, P. B.; Safaei, N.; Castelli, I. E.; Ramirez, F. F.; Carlsson, J.; Pizzi, G.; Clark, S.; Hanke, F.; Bhowmik, A.; Stein, H. S. *Matter* 2023, 6 (9), 2647–2665.
 
 #### 2022 <!-- omit from toc -->
 - 🧪🔬🏗️💻 | [A Self-Driving Laboratory Designed to Accelerate the Discovery of Adhesive Materials](https://doi.org/10.1039/D2DD00029F). Rooney, M. B.; MacLeod, B. P.; Oldford, R.; Thompson, Z. J.; White, K. L.; Tungjunyatham, J.; Stankiewicz, B. J.; Berlinguette, C. P. *Digital Discovery* 2022, 10.1039.D2DD00029F.
@@ -212,6 +214,7 @@ Experimental orchestration software for autonomously controlling laboratory expe
 - XDL [[code](https://gitlab.com/croningroup/chemputer/xdl)] [[docs](https://croningroup.gitlab.io/chemputer/xdl/)] [[paper](https://dx.doi.org/10.1126/science.aav2211)]
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 - NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)] [[paper](https://doi.org/10.48550/arXiv.2304.13927)]
+- FINALES [[code](https://github.com/BIG-MAP/FINALES2)] [[paper](https://doi.org/10.1002/aenm.202403263)]
 
 #### General Purpose
 

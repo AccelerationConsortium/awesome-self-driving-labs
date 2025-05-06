@@ -215,6 +215,7 @@ Experimental orchestration software for autonomously controlling laboratory expe
 - self-driving-lab-demo [[code](https://github.com/sparks-baird/self-driving-lab-demo)] [[docs](https://self-driving-lab-demo.readthedocs.io/)]
 - NIMS-OS [[code](https://github.com/nimsos-dev/nimsos)] [[docs](https://nimsos-dev.github.io/nimsos/docs/en/index.html)] [[paper](https://doi.org/10.48550/arXiv.2304.13927)]
 - FINALES [[code](https://github.com/BIG-MAP/FINALES2)] [[paper](https://doi.org/10.1002/aenm.202403263)]
+- Modular Autonomous Discovery for Science (MADSci) Framework [[code](https://github.com/AD-SDL/MADSci)] [[docs](https://github.com/AD-SDL/MADSci#documentation)] [[examples](https://github.com/AD-SDL/MADSci_Examples)]
 
 #### General Purpose
 

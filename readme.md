@@ -242,6 +242,7 @@ See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists
 - [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
 - [Dragonfly](https://github.com/dragonfly/dragonfly) is an open source python library for scalable Bayesian optimization with multi-objective and multi-fidelity support.
 - [RayTune](https://docs.ray.io/en/latest/tune/index.html) offers experiment execution and hyperparameter tuning at any scale with many supported [search algorithms](https://docs.ray.io/en/latest/tune/api/suggestion.html) and [trial schedulers](https://docs.ray.io/en/latest/tune/api/schedulers.html) under a common interface.
+- [Open Source (OSS) Vizier](https://oss-vizier.readthedocs.io/) is a Bayesian optimization library by Google based on their original internal Vizier service. It is designed for deployment in large-scale systems.
 - Aspuru-Guzik Group
   - [Atlas](https://github.com/rileyhickman/atlas) is a Python package that offers Bayesian optimization tailored towards real-world experimental science problems: mixed parameters, multi-objective, noisy, constrained, multi-fidelity, and meta-learning optimization along with search space expansion/contraction. [WIP]
   - [Chimera](https://github.com/aspuru-guzik-group/chimera) is a hierarchy-based multi-objective optimization scalarizing function.

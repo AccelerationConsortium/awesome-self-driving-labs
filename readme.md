@@ -224,6 +224,8 @@ Experimental orchestration software for autonomously controlling laboratory expe
 - Robot Operating System (ROS) [[code](https://github.com/ros/ros)] [[docs](https://www.ros.org/)]
 - Derived Information Framework [[code](https://github.com/cambridge-cares/TheWorldAvatar/tree/main/JPS_BASE_LIB/python_derivation_agent)] [[docs](https://github.com/cambridge-cares/TheWorldAvatar/blob/main/JPS_BASE_LIB/python_derivation_agent/README.md)] [[paper](https://doi.org/10.1016/j.future.2023.10.008)]
 
+See also [Awesome List of Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
+
 #### Communication Protocols/Server Frameworks
 - MQTT [[code (Python interface)](https://github.com/eclipse/paho.mqtt.python)] [[docs](https://mqtt.org/)]
 - SiLA2 (based on HTTP/2) [[code (Python interface)](https://gitlab.com/SiLA2/sila_python)] [[docs](https://sila-standard.com/standards/)]

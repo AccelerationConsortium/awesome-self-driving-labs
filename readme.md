@@ -221,6 +221,7 @@ Experimental orchestration software for autonomously controlling laboratory expe
 
 - Prefect [[code](https://github.com/PrefectHQ/prefect) [[docs](https://www.prefect.io/)]
 - Node-RED [[code](https://github.com/node-red/node-red) [[docs](https://nodered.org/)]
+- n8n [[code](https://github.com/n8n-io/)] [[docs](https://n8n.io/)]
 - Robot Operating System (ROS) [[code](https://github.com/ros/ros)] [[docs](https://www.ros.org/)]
 - Derived Information Framework [[code](https://github.com/cambridge-cares/TheWorldAvatar/tree/main/JPS_BASE_LIB/python_derivation_agent)] [[docs](https://github.com/cambridge-cares/TheWorldAvatar/blob/main/JPS_BASE_LIB/python_derivation_agent/README.md)] [[paper](https://doi.org/10.1016/j.future.2023.10.008)]
 

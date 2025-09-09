@@ -275,13 +275,14 @@ See also [@sgbaird's lab-automation list](https://github.com/stars/sgbaird/lists
 
 ### Research Data Management
 
-i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Systems (LIMS). You may also be interested in this [list of solutions by Labii](https://github.com/Labii/comparison-of-best-electronic-lab-notebook), of course keeping in mind that the list is compiled by a specific ELN company. See also this [ELN Finder tool](https://eln-finder.ulb.tu-darmstadt.de/home).
+i.e., Electronic Lab Notebooks (ELNs) and Laboratory Information Management Systems (LIMS). You may also be interested in this [list of solutions by Labii](https://github.com/Labii/comparison-of-best-electronic-lab-notebook), of course keeping in mind that the list is compiled by a specific ELN company. See also this [ELN Finder tool](https://eln-finder.ulb.tu-darmstadt.de/home). See also [projects that are participating in The ELN Consortium](https://github.com/TheELNConsortium/#participating-eln-projects).
 
 #### Open-source
+
 - [eLabFTW](https://www.elabftw.net/)
 - [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html) [[Example](https://www.youtube.com/watch?v=KVpUUJ5VFh4&t)]
 - [SciNote](https://www.scinote.net/)
-- 
+
 #### Proprietary
 - [Uncountable](https://www.uncountable.com/)
 - [Protocols.io](https://protocols.io)

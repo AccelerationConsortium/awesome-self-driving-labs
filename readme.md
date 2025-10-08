@@ -228,6 +228,7 @@ Experimental orchestration software for autonomously controlling laboratory expe
 See also [Awesome List of Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
 
 #### Communication Protocols/Server Frameworks
+- EPICS [[code (Python interface)](https://github.com/pyepics/pyepics)] [[docs](https://docs.epics-controls.org/en/latest/)]
 - MQTT [[code (Python interface)](https://github.com/eclipse/paho.mqtt.python)] [[docs](https://mqtt.org/)]
 - SiLA2 (based on HTTP/2) [[code (Python interface)](https://gitlab.com/SiLA2/sila_python)] [[docs](https://sila-standard.com/standards/)]
 - OPC-UA [[code (Python interface)](https://github.com/FreeOpcUa/python-opcua)] [[docs](https://opcfoundation.org/about/opc-technologies/opc-ua/)]
